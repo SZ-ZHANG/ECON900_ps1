@@ -4,7 +4,9 @@ Problem set 1 for Econ 900
 There are three parts in this repository. The first parts contain the web scraping for www.boardgamegeek.com. The second part contains the parsed results from the HTML page. The third part contains the analysis results of the data set. 
 
 Homework_scraping.py is used to get the web structure from boardgamegreek.com.
+
 Homework_parse.py gets the information from the scraped HTML page. 
+
 DataClean.R clean the data set.
 
 
