@@ -23,6 +23,6 @@ Following the requirement, several variables are collected. They are game name, 
  
 ## Analysis Results
 
-In this part, I first use a small R program the clean the dataset. I put NA with all missing values. All the variables transfer to the proper type for the analysis. The R script and the cleaned data set have been uploaded in the folder parsed results.
+In this part, I first use a small R program to clean the dataset. I put NA with all missing values. All the variables transfer to the proper type for the analysis. Also, I separate the gameRank based on quartile. A new variable is added. The R script and the cleaned data set have been uploaded in the folder parsed results.
 
 Using python to do the machine learning analysis. An analysis report is included in the repository. 
