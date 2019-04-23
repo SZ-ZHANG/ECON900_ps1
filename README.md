@@ -7,7 +7,7 @@ Homework_scraping.py is used to get the web structure from boardgamegreek.com.
 
 Homework_parse.py gets the information from the scraped HTML page. 
 
-DataClean.R clean the data set.
+DataClean.R cleans the data set.
 
 
 ## Web Scraping
