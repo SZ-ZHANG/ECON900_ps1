@@ -1,0 +1,2240 @@
+"Index","AvgRating","GameName","GameRank","GeekRating","ListPrice","NumVoters","RankCategory"
+1,8.91,"Gloomhaven",1,8.61,140,24367,1
+2,8.64,"Pandemic Legacy: Season 1",2,8.49,69.99,30834,1
+3,8.54,"Through the Ages: A New Story of Civilization",3,8.258,69.95,15480,1
+4,8.4,"Terraforming Mars",4,8.241,69.95,38025,1
+5,8.32,"Twilight Struggle",5,8.175,64.99,34186,1
+6,8.45,"Star Wars: Rebellion",6,8.162,99.95,16392,1
+7,8.55,"Gaia Project",7,8.124,83.97,9007,1
+8,8.29,"Scythe",8,8.12,63.95,38948,1
+9,8.29,"Great Western Trail",9,8.08,69.95,18863,1
+10,8.73,"Twilight Imperium (Fourth Edition)",10,8.071,149.95,6429,1
+11,8.2,"Terra Mystica",11,8.049,79.99,32391,1
+12,8.43,"War of the Ring (Second Edition)",12,8.033,89.99,9703,1
+13,8.13,"The Castles of Burgundy",13,8.011,41.99,36358,1
+14,8.12,"7 Wonders Duel",14,7.991,29.99,40111,1
+15,8.38,"Spirit Island",15,7.99,79.95,10505,1
+16,8.62,"Brass: Birmingham",16,7.985,59,5304,1
+17,8.14,"Viticulture Essential Edition",18,7.929,60,17168,1
+18,8.1,"Concordia",19,7.926,64.99,19589,1
+19,8.04,"Puerto Rico",20,7.923,44.99,56138,1
+20,8.23,"Arkham Horror: The Card Game",21,7.922,39.95,17155,1
+21,8.07,"Caverna: The Cave Farmers",22,7.908,97,23480,1
+22,8.12,"Brass: Lancashire",23,7.908,59.99,14885,1
+23,8.11,"Mage Knight Board Game",24,7.896,124.99,23354,1
+24,7.99,"Agricola",25,7.889,79.71,56716,1
+25,8.16,"Mansions of Madness: Second Edition",26,7.879,99.95,16314,1
+26,8.08,"Orléans",27,7.876,59.99,15691,1
+27,8.18,"A Feast for Odin",28,7.859,99.99,10949,1
+28,8.03,"Blood Rage",30,7.849,79.99,25291,1
+29,8.26,"Pandemic Legacy: Season 2",33,7.808,79.99,7042,1
+30,8.08,"Star Wars: Imperial Assault",34,7.806,99.99,16449,1
+31,7.99,"Through the Ages: A Story of Civilization",35,7.803,69.99,16850,1
+32,7.89,"Power Grid",36,7.801,44.99,49691,1
+33,7.94,"Azul",37,7.784,39.99,27005,1
+34,7.93,"Tzolk'in: The Mayan Calendar",38,7.778,59.95,24276,1
+35,7.95,"Eclipse",39,7.776,99,23909,1
+36,7.89,"Le Havre",40,7.755,59.91,22971,1
+37,7.91,"Robinson Crusoe: Adventures on the Cursed Island",41,7.744,65,26527,1
+38,7.94,"The Voyages of Marco Polo",42,7.731,59.99,15264,1
+39,8.06,"Clans of Caledonia",43,7.711,69.99,8761,1
+40,7.9,"Android: Netrunner",44,7.71,39.95,24203,1
+41,7.78,"7 Wonders",45,7.691,49.99,68410,1
+42,7.85,"Keyflower",46,7.676,72.99,15810,1
+43,7.76,"Race for the Galaxy",47,7.664,34.99,40384,1
+44,7.81,"Caylus",48,7.662,54.99,24564,1
+45,7.85,"Dominant Species",49,7.659,79.99,15612,1
+46,8.14,"Fields of Arle",50,7.65,79.99,5701,1
+47,7.77,"Lords of Waterdeep",51,7.647,49.99,38308,1
+48,8.12,"Anachrony",52,7.645,65,6784,1
+49,7.87,"Twilight Imperium (Third Edition)",53,7.643,89.95,17194,1
+50,8.01,"Rising Sun",54,7.641,99.99,10367,1
+51,7.78,"Five Tribes",55,7.639,59.99,25459,1
+52,7.86,"Eldritch Horror",56,7.633,59.99,23428,1
+53,7.78,"El Grande",57,7.63,99.99,21126,1
+54,7.72,"Codenames",58,7.627,19.95,50378,1
+55,8.1,"Root",59,7.624,60,6801,1
+56,7.82,"Clank!: A Deck-Building Adventure",60,7.615,60,16743,1
+57,7.74,"Dominion: Intrigue",61,7.61,39.95,26962,1
+58,7.72,"Patchwork",62,7.603,27.99,33080,1
+59,8.02,"The Gallerist",63,7.602,79.99,6673,1
+60,7.93,"Mombasa",64,7.596,44.99,8506,1
+61,7.74,"Battlestar Galactica: The Board Game",65,7.591,49.95,29670,1
+62,7.8,"Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",67,7.578,49.99,13379,1
+63,7.77,"T.I.M.E Stories",68,7.577,49.99,18813,1
+64,8.16,"Wingspan",69,7.577,55,5261,1
+65,7.76,"Troyes",70,7.575,59.99,15002,1
+66,7.71,"Tigris & Euphrates",72,7.56,59.95,23031,1
+67,7.78,"Trajan",73,7.556,70,12463,1
+68,7.77,"Star Wars: X-Wing Miniatures Game",74,7.551,39.99,20677,1
+69,7.64,"Pandemic",75,7.547,39.99,82555,1
+70,7.65,"Dominion",76,7.545,44.95,67799,1
+71,7.68,"Dead of Winter: A Crossroads Game",77,7.54,59.99,32521,1
+72,8,"Pandemic: Iberia",79,7.523,49.99,6028,1
+73,7.75,"Kemet",80,7.521,69.99,13070,1
+74,8.2,"Lisboa",81,7.52,99.99,3992,1
+75,7.73,"Descent: Journeys in the Dark (Second Edition)",82,7.501,79.95,19205,1
+76,7.6,"Stone Age",84,7.495,49.99,37952,1
+77,8.14,"Agricola (Revised Edition)",85,7.494,79.71,4564,1
+78,7.82,"Raiders of the North Sea",87,7.482,50,8410,1
+79,7.8,"Legendary Encounters: An Alien Deck Building Game",89,7.474,59.99,9149,1
+80,7.78,"War of the Ring (First Edition)",90,7.474,89.99,9457,1
+81,7.61,"Star Realms",91,7.473,14.99,28110,1
+82,7.63,"Castles of Mad King Ludwig",92,7.468,59.99,18696,1
+83,7.61,"Istanbul",93,7.464,49.99,19707,1
+84,7.66,"A Game of Thrones: The Board Game (Second Edition)",94,7.463,53.95,23842,1
+85,7.79,"Champions of Midgard",95,7.463,59.99,8628,1
+86,7.65,"Santorini",96,7.462,29.99,17111,1
+87,8.06,"Aeon's End",97,7.458,49.99,4988,1
+88,7.63,"The Resistance: Avalon",98,7.457,19.99,22339,1
+89,7.56,"Ticket to Ride: Europe",100,7.447,44.99,47060,1
+90,7.48,"Onitama",201,7.223,29.99,9896,1
+91,7.67,"Welcome To...",202,7.223,24.95,5125,1
+92,7.3,"Small World",206,7.215,49.99,53224,1
+93,7.9,"Star Wars: Armada",207,7.214,99.95,3821,1
+94,7.44,"Letters from Whitechapel",208,7.213,59.99,11707,1
+95,7.43,"Agricola: All Creatures Big and Small",209,7.213,39.99,10943,1
+96,7.77,"Coimbra",210,7.21,69.99,3963,1
+97,7.52,"Mission: Red Planet (Second Edition)",212,7.202,49.99,7094,1
+98,7.32,"Hive",213,7.201,31.99,24782,1
+99,7.44,"Merchants & Marauders",214,7.199,64.99,11449,1
+100,7.35,"Ghost Stories",215,7.197,49.99,17321,1
+101,7.37,"Modern Art",216,7.197,29.99,14175,1
+102,7.45,"Bruges",217,7.196,49.99,8819,1
+103,7.3,"Dixit",218,7.195,34.99,41126,1
+104,7.71,"KeyForge: Call of the Archons",220,7.193,39.95,5346,1
+105,8.23,"Detective: A Modern Crime Board Game",221,7.191,50,2410,1
+106,7.63,"Die Macher",222,7.191,49.95,4773,1
+107,7.4,"Century: Spice Road",223,7.188,29.9,12369,1
+108,7.34,"Tikal",224,7.187,32.99,16073,1
+109,7.53,"Roll Player",226,7.186,59.95,6767,1
+110,7.52,"Ethnos",228,7.184,39.99,6514,1
+111,7.75,"Evolution: Climate",230,7.179,59.99,4241,1
+112,7.55,"Claustrophobia",231,7.178,69.99,6281,1
+113,7.43,"Endeavor",232,7.178,49.99,8665,1
+114,7.41,"Telestrations",233,7.177,29.99,9853,1
+115,7.3,"Takenoko",235,7.175,49.99,27736,1
+116,7.88,"Tyrants of the Underdark",236,7.173,70,3242,1
+117,7.95,"Cthulhu Wars",237,7.173,199.99,3453,1
+118,7.55,"Hanamikoji",238,7.171,19.95,5849,1
+119,7.37,"Notre Dame",239,7.17,44.99,11219,1
+120,7.4,"Tiny Epic Galaxies",240,7.17,35,11502,1
+121,7.26,"Love Letter",241,7.169,11.99,46549,1
+122,7.39,"In the Year of the Dragon",242,7.168,44.99,9700,1
+123,7.65,"Clash of Cultures",243,7.167,79.99,4699,1
+124,7.77,"Pulsar 2849",244,7.165,59.95,3609,1
+125,7.42,"The Manhattan Project",247,7.157,49.99,8275,1
+126,7.38,"Mice and Mystics",248,7.156,74.99,14217,1
+127,7.35,"Codenames: Pictures",249,7.155,19.95,12479,1
+128,7.27,"San Juan",251,7.153,34.99,20663,1
+129,8,"BattleCON: Devastation of Indines",252,7.151,74.99,2650,1
+130,7.31,"Survive: Escape from Atlantis!",253,7.148,39.95,17188,1
+131,7.31,"The Pillars of the Earth",254,7.148,59.95,14959,1
+132,7.54,"Space Hulk (third edition)",255,7.145,99.99,6373,1
+133,7.31,"Saint Petersburg",256,7.144,34.99,13413,1
+134,7.23,"King of Tokyo",257,7.141,39.99,48129,1
+135,7.38,"At the Gates of Loyang",258,7.131,59.99,8318,1
+136,7.37,"Blood Bowl: Team Manager – The Card Game",262,7.125,31.99,9388,1
+137,7.43,"Macao",264,7.119,44.99,6431,1
+138,7.75,"Century: Golem Edition",265,7.118,39.99,3466,1
+139,7.29,"Arkham Horror",266,7.116,59.95,34148,1
+140,7.48,"Risk Legacy",267,7.113,59.99,6720,1
+141,7.31,"Fresco",269,7.108,62.95,10540,1
+142,7.52,"Harry Potter: Hogwarts Battle",270,7.107,49.99,6757,1
+143,8.48,"Nemesis",272,7.107,149.99,2101,1
+144,7.41,"Arboretum",273,7.106,16.38,7091,1
+145,7.45,"Lancaster",275,7.105,64.99,5980,1
+146,7.96,"Maria",276,7.105,59.99,2368,1
+147,8.48,"Aeon's End: War Eternal",277,7.098,49.99,1575,1
+148,7.93,"Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures",278,7.097,49.99,2526,1
+149,7.56,"San Juan (Second Edition)",279,7.094,34.99,4277,1
+150,7.24,"Flash Point: Fire Rescue",281,7.093,39.99,17924,1
+151,7.34,"Glen More",282,7.091,34.99,8011,1
+152,7.35,"Quadropolis",283,7.09,49.99,8584,1
+153,7.37,"BattleLore",285,7.088,79.99,8905,1
+154,7.73,"1775: Rebellion",286,7.088,70,3168,1
+155,7.21,"Sheriff of Nottingham",287,7.087,34.99,23533,1
+156,7.98,"Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set",291,7.078,39.99,2373,1
+157,7.4,"Firefly: The Game",292,7.078,49.99,9029,1
+158,7.21,"Kingsburg",296,7.076,49.95,17160,1
+159,7.34,"Pandemic: The Cure",297,7.076,49.99,7841,1
+160,7.33,"Mansions of Madness",298,7.074,99.95,11919,1
+161,7.62,"Heaven & Ale",299,7.073,69.99,3664,1
+162,7.2,"Forbidden Desert",300,7.072,24.99,20815,1
+163,7.32,"Descent: Journeys in the Dark",303,7.067,79.95,10881,1
+164,7.24,"Innovation",304,7.066,20,12911,1
+165,7.38,"London (first edition)",305,7.063,54.99,5962,1
+166,7.15,"Lost Cities",306,7.061,19.99,31736,1
+167,7.56,"Stockpile",307,7.059,56.91,4144,1
+168,7.38,"Bärenpark",308,7.058,39.99,6530,1
+169,7.46,"Spartacus: A Game of Blood & Treachery",309,7.058,39.99,6146,1
+170,7.28,"Sentinels of the Multiverse",311,7.055,39.99,13243,1
+171,7.34,"Dice Forge",312,7.05,39.99,8440,1
+172,7.14,"Hanabi",313,7.048,10.95,31780,1
+173,7.38,"Archipelago",314,7.047,89.99,6433,1
+174,7.27,"The Grizzled",315,7.047,24.99,9787,1
+175,7.44,"Egizia",317,7.044,39.99,4791,1
+176,7.21,"Biblios",318,7.043,24.99,12886,1
+177,7.41,"Raptor",319,7.042,34.99,5519,1
+178,7.22,"One Night Ultimate Werewolf",320,7.04,24.99,16822,1
+179,7.75,"Time's Up! Title Recall!",321,7.039,19.99,2672,1
+180,7.19,"Catan",322,7.039,48.99,84548,1
+181,7.97,"Commands & Colors: Napoleonics",326,7.039,74.99,2216,1
+182,7.46,"Pandemic: Reign of Cthulhu",327,7.038,49.99,5815,1
+183,7.59,"Labyrinth: The War on Terror, 2001 – ?",328,7.038,65,3763,1
+184,7.3,"Small World Underground",329,7.038,49.99,8637,1
+185,7.28,"Pathfinder Adventure Card Game: Rise of the Runelords – Base Set",330,7.033,59.99,11183,1
+186,7.35,"Deus",331,7.032,59.99,6102,1
+187,7.25,"Legends of Andor",332,7.031,59.99,11503,1
+188,7.17,"Colt Express",333,7.029,39.99,18732,1
+189,7.26,"Photosynthesis",335,7.026,44.99,9858,1
+190,7.7,"Star Wars: Destiny",336,7.026,14.95,3619,1
+191,7.33,"Airlines Europe",337,7.023,59.99,6313,1
+192,7.2,"Friday",338,7.022,19.99,13073,1
+193,7.49,"Vinhos",339,7.02,69.99,4101,1
+194,7.2,"Libertalia",340,7.019,49.99,11016,1
+195,7.54,"First Class: All Aboard the Orient Express!",341,7.019,49.99,3675,1
+196,7.25,"PitchCar",342,7.019,89.99,8645,1
+197,7.29,"Euphoria: Build a Better Dystopia",343,7.017,69.99,7712,1
+198,7.3,"Abyss",344,7.016,42.97,7623,1
+199,7.6,"Freedom: The Underground Railroad",345,7.016,69.99,3267,1
+200,7.13,"Shadows over Camelot",349,7.007,59.99,23437,1
+201,7.28,"Elysium",350,7.007,59.99,7167,1
+202,7.1,"Citadels",353,7.004,20,43528,1
+203,7.27,"Paperback",354,7.001,34.95,7272,1
+204,7.83,"Conan",355,7,119.99,3188,1
+205,7.68,"A Game of Thrones: The Card Game (Second Edition)",356,6.997,39.95,3422,1
+206,7.23,"Tales of the Arabian Nights",357,6.997,59.99,10476,1
+207,7.69,"TZAAR",358,6.996,34.99,2756,1
+208,7.25,"A Game of Thrones (First Edition)",360,6.993,53.95,9785,1
+209,7.21,"Magic Maze",361,6.991,32.99,10057,1
+210,7.76,"The Colonists",362,6.989,90,2541,1
+211,7.24,"Imhotep",364,6.988,39.95,8347,1
+212,7.35,"Automobile",365,6.986,49.99,5086,1
+213,7.2,"Evolution",366,6.986,39.99,10664,1
+214,7.67,"Gùgōng",367,6.982,59.95,2862,1
+215,7.1,"RoboRally",368,6.982,49.99,21172,1
+216,7.21,"Last Will",369,6.981,49.95,8071,1
+217,7.32,"Lords of Vegas",371,6.98,44.99,5603,1
+218,7.46,"Francis Drake",372,6.979,79.99,3926,1
+219,7.23,"Nexus Ops",373,6.979,59.95,8131,1
+220,7.31,"Schotten Totten",375,6.977,14.99,5656,1
+221,7.26,"Chinatown",377,6.972,39.99,6907,1
+222,7.3,"Mystic Vale",378,6.971,44.99,6438,1
+223,7.22,"Colosseum",379,6.971,59.99,7933,1
+224,7.08,"Sushi Go!",380,6.971,14.99,26375,1
+225,7.42,"Thunderstone Advance: Towers of Ruin",381,6.97,49.99,4379,1
+226,7.55,"The Republic of Rome",383,6.969,69.99,3697,1
+227,7.21,"Zombicide",384,6.965,89.99,14098,1
+228,7.44,"DVONN",385,6.965,32.99,4042,1
+229,7.23,"Chicago Express",389,6.96,62.95,6785,1
+230,7.62,"KLASK",390,6.959,59.99,2903,1
+231,7.31,"AquaSphere",391,6.957,59.99,5472,1
+232,7.59,"Runebound (Third Edition)",392,6.956,59.99,3548,1
+233,8.08,"Nemo's War (second edition)",393,6.954,75,1721,1
+234,7.61,"Azul: Stained Glass of Sintra",394,6.951,39.99,2898,1
+235,7.05,"Bohnanza",395,6.95,19.99,33594,1
+236,7.58,"Baseball Highlights: 2045",396,6.949,39.99,2901,1
+237,7.17,"Skull",397,6.949,24.99,9590,1
+238,7.3,"Quantum",398,6.948,55.99,5640,1
+239,7.49,"Wallenstein (first edition)",399,6.947,79.99,3398,1
+240,7.5,"Junk Art",400,6.944,69.99,3443,1
+241,6.97,"Coloretto",501,6.846,14.95,15883,1
+242,7.78,"Stuffed Fables",502,6.844,69.95,2004,1
+243,8.24,"D-Day at Omaha Beach",503,6.844,75,1284,1
+244,7.3,"Coal Baron",504,6.844,44.99,3798,1
+245,7.24,"Warhammer: Invasion",505,6.843,49.99,5440,1
+246,7.4,"Citadels",506,6.84,29.99,3600,1
+247,7.28,"Vast: The Crystal Caverns",508,6.837,59.95,4368,1
+248,7.59,"Cryptid",509,6.837,35,2306,1
+249,7.06,"Between Two Cities",510,6.837,35,7823,1
+250,7.71,"Churchill",512,6.836,80.1,1959,1
+251,7.12,"Cacao",513,6.835,34.99,6339,1
+252,7.45,"Super Motherload",515,6.834,39.8,2738,1
+253,7.26,"Star Wars: The Card Game",516,6.834,39.95,4892,1
+254,7.61,"Summoner Wars: Guild Dwarves vs Cave Goblins",517,6.833,24.99,2205,1
+255,7.15,"Onirim (second edition)",518,6.833,24.99,5879,1
+256,7.34,"The Oracle of Delphi",519,6.833,41.59,3278,1
+257,8.06,"Virgin Queen",520,6.833,88.99,1421,1
+258,7.29,"Dungeons & Dragons: The Legend of Drizzt Board Game",523,6.831,64.99,4926,1
+259,7.54,"Brew Crafters",524,6.829,59.99,2363,1
+260,7.46,"Valeria: Card Kingdoms",525,6.828,50,2812,1
+261,8.01,"Conflict of Heroes: Awakening the Bear! (second edition)",526,6.827,90,1549,1
+262,7.64,"Legendary: Villains – A Marvel Deck Building Game",529,6.826,59.99,2284,1
+263,7.25,"Exit: The Game – The Secret Lab",530,6.824,14.95,3847,1
+264,7.56,"Friedrich",531,6.824,74.95,2372,1
+265,7.54,"Black Orchestra",534,6.821,60,2514,1
+266,7.22,"One Deck Dungeon",537,6.82,25,4982,1
+267,7.27,"The Networks",538,6.819,39.91,3814,1
+268,7.31,"ZÈRTZ",542,6.817,34.99,3635,1
+269,7.04,"The Mind",543,6.816,12.99,8171,1
+270,7.4,"Age of Industry",544,6.815,64.99,2765,1
+271,7.05,"Diplomacy",545,6.814,29.99,11122,1
+272,7.03,"Ascension: Deckbuilding Game",546,6.812,39.99,10461,1
+273,7.36,"Smash Up: Science Fiction Double Feature",548,6.811,22.99,3349,1
+274,7.03,"Jambo",550,6.81,24.99,7679,1
+275,7.11,"Spyrium",551,6.808,34.99,5305,1
+276,7.72,"Newton",554,6.805,49.32,1764,1
+277,6.95,"Wits & Wagers",559,6.801,34.99,11883,1
+278,7.09,"XCOM: The Board Game",560,6.799,59.99,6791,1
+279,7.62,"Heroscape Master Set: Swarm of the Marro",561,6.799,39.99,2147,1
+280,6.99,"Space Hulk: Death Angel – The Card Game",562,6.797,24.95,11182,1
+281,7.1,"HeroQuest",563,6.796,202,9638,1
+282,7.78,"Telestrations: 12 Player Party Pack",564,6.796,39.99,1670,1
+283,7.55,"Nusfjord",565,6.794,70,2135,1
+284,7.07,"Finca",566,6.792,39.95,6255,1
+285,7.31,"Caverna: Cave vs Cave",567,6.792,28,3153,1
+286,6.91,"Blokus",568,6.791,19.99,19848,1
+287,7.2,"Carcassonne: The City",569,6.791,39.99,4017,1
+288,6.96,"Ca$h 'n Guns (Second Edition)",570,6.789,33.64,10321,1
+289,7.18,"Lords of Xidit",571,6.788,59.99,4195,1
+290,7.15,"Maharaja: The Game of Palace Building in India",574,6.788,44.99,4704,1
+291,7.28,"Marvel Dice Masters: Uncanny X-Men",576,6.786,15.99,3473,1
+292,7.44,"Space Base",577,6.786,39.99,2603,1
+293,7.19,"Scoville",578,6.785,59.99,4078,1
+294,7.11,"FUSE",579,6.785,30,5376,1
+295,7.85,"Dice Throne: Season One",580,6.785,49.99,2201,1
+296,7.18,"Adrenaline",582,6.782,47.82,4315,1
+297,7.7,"Polis: Fight for the Hegemony",584,6.781,59.99,1840,1
+298,6.96,"Red7",586,6.778,12.99,9802,1
+299,7.2,"Tiny Epic Quest",587,6.776,35,4432,1
+300,7.04,"Cribbage",588,6.775,12.99,7060,1
+301,7.12,"Santiago",590,6.771,39.99,4609,1
+302,7.32,"Ascension: Storm of Souls",592,6.771,39.99,3163,1
+303,7.2,"Core Worlds",593,6.77,44.95,3701,1
+304,7.33,"Dragon Castle",595,6.77,49.99,3048,1
+305,7.08,"Louis XIV",597,6.767,29.99,5183,1
+306,7.18,"Hawaii",599,6.764,49.99,3820,1
+307,6.97,"Last Night on Earth: The Zombie Game",600,6.763,59.95,13019,1
+308,7.21,"Legacy: The Testament of Duke de Crecy",601,6.763,43.99,3623,1
+309,7.17,"Dungeons & Dragons: Wrath of Ashardalon Board Game",602,6.762,64.99,5270,1
+310,7.36,"Thunder Alley",603,6.762,69.99,2736,1
+311,7.03,"Flick 'em Up!",604,6.761,69.99,6202,1
+312,8.01,"Zombicide: Green Horde",605,6.759,99.99,1614,1
+313,7.97,"Arkham Horror (Third Edition)",607,6.758,64.95,1628,1
+314,7.27,"Reef",609,6.756,39.99,3244,1
+315,7.09,"Not Alone",610,6.755,29.95,5472,1
+316,6.92,"Liar's Dice",611,6.754,34.99,11103,1
+317,7.29,"Ex Libris",613,6.752,60,3062,1
+318,7.83,"Sidereal Confluence: Trading and Negotiation in the Elysian Quadrant",614,6.751,64.99,1493,1
+319,7.02,"Oh My Goods!",615,6.751,15,6495,1
+320,7.14,"Container",616,6.75,59.95,4034,1
+321,7.54,"Legendary Encounters: A Predator Deck Building Game",617,6.75,59.99,2063,1
+322,7.31,"Akrotiri",618,6.749,29.99,2827,1
+323,7,"Ricochet Robots",619,6.749,49.99,7196,1
+324,7.11,"The Castles of Burgundy: The Card Game",620,6.747,13.49,4571,1
+325,6.89,"Roll Through the Ages: The Bronze Age",623,6.743,39.99,10846,1
+326,7.79,"BattleCON: War of Indines",624,6.743,50,1576,1
+327,7.04,"Celestia",625,6.742,29.99,5983,1
+328,7.31,"Ascension: Return of the Fallen",626,6.742,29.99,2976,1
+329,7.9,"Pandemic: Fall of Rome",627,6.737,42.93,1386,1
+330,6.97,"Lanterns: The Harvest Festival",628,6.737,34.99,7685,1
+331,7.47,"The Others",630,6.736,99.99,2663,1
+332,6.89,"Concept",631,6.736,39.99,11944,1
+333,7.01,"Attika",632,6.736,32.99,6153,1
+334,6.99,"Formula Dé",633,6.734,59.99,7444,1
+335,6.82,"Forbidden Island",636,6.732,17.99,35045,1
+336,7.34,"Smash Up: Pretty Pretty Smash Up",643,6.725,19.99,2743,1
+337,7.2,"Merchant of Venus (second edition)",644,6.723,79.95,3306,1
+338,7.53,"Dogs of War",645,6.719,59.99,1966,1
+339,7.45,"Netrunner",648,6.716,39.95,2226,1
+340,7.12,"Fabled Fruit",650,6.715,36.33,3874,1
+341,7.36,"Smash Up: Monster Smash",651,6.715,19.99,2555,1
+342,6.83,"Diamant",652,6.714,25.99,14598,1
+343,7.4,"Automobiles",653,6.713,49.99,2200,1
+344,7.61,"Zombicide Season 3: Rue Morgue",655,6.713,99.99,2027,1
+345,7.73,"Wilderness War",656,6.712,60,1549,1
+346,7.16,"Mint Works",658,6.711,24.99,3669,1
+347,6.85,"Zooloretto",659,6.71,44.99,12926,1
+348,7.13,"Rex: Final Days of an Empire",660,6.708,59.95,3835,1
+349,7.23,"Tide of Iron",661,6.706,99.95,3622,1
+350,7.09,"Wiz-War (eighth edition)",663,6.706,49.95,4296,1
+351,6.96,"Rhino Hero",664,6.705,13.99,6292,1
+352,7.03,"Mahjong",665,6.705,46.59,5688,1
+353,8,"Space Hulk (fourth edition)",666,6.702,99.99,1356,1
+354,7.41,"Sid Meier's Civilization: A New Dawn",667,6.702,49.95,2474,1
+355,6.95,"Mr. Jack Pocket",668,6.702,14.99,6529,1
+356,6.98,"Dungeons & Dragons: Castle Ravenloft Board Game",669,6.7,64.99,7776,1
+357,7.32,"Battles of Westeros",671,6.696,51.99,2620,1
+358,7.39,"Warhammer 40,000: Conquest",672,6.696,42.99,2510,1
+359,6.85,"Can't Stop",673,6.696,39.99,10790,1
+360,7.27,"The Pursuit of Happiness",674,6.695,59.95,2651,1
+361,7.4,"Unfair",677,6.691,49.99,2687,1
+362,7.27,"Mr. Jack in New York",680,6.686,42.99,2678,1
+363,7.56,"Wasteland Express Delivery Service",683,6.681,54.76,1857,1
+364,7.1,"Valley of the Kings",684,6.678,19.99,3552,1
+365,7.21,"Shadowrun: Crossfire",685,6.675,59.99,3007,1
+366,7.04,"Black Fleet",686,6.672,69.99,4227,1
+367,7.4,"Massive Darkness",687,6.672,119.99,2971,1
+368,7.46,"Gold West",690,6.668,59.99,1801,1
+369,7.25,"World's Fair 1893",691,6.668,40,2586,1
+370,6.89,"Qwixx",694,6.666,11.99,6872,1
+371,6.9,"Terror in Meeple City",698,6.66,59.99,6648,1
+372,6.81,"Smash Up",699,6.659,34.99,20434,1
+373,7.26,"Islebound",700,6.659,49.99,2416,1
+374,7.01,"Rivals for Catan",701,6.659,24.99,4806,1
+375,7.03,"The Big Book of Madness",702,6.659,39.99,4434,1
+376,7.37,"1812: The Invasion of Canada",703,6.658,69.99,2032,1
+377,6.9,"Wizard",706,6.655,14.99,6761,1
+378,7.12,"Via Nebula",708,6.652,31.43,3094,1
+379,7.24,"Ninjato",709,6.652,57.28,2488,1
+380,6.95,"Parade",710,6.651,19.99,4986,1
+381,7.5,"Level 7 [Omega Protocol]",711,6.651,89.99,1737,1
+382,8.22,"Betrayal Legacy",715,6.648,75,1086,1
+383,7.05,"Fauna",717,6.645,44.99,3618,1
+384,7.01,"Domaine",719,6.643,49,4093,1
+385,7.07,"Yggdrasil",720,6.643,54.99,3473,1
+386,6.97,"The Bloody Inn",721,6.642,29.99,4662,1
+387,6.98,"Diamonds",722,6.642,24.99,4276,1
+388,8.48,"Aeon's End: Legacy",725,6.64,69.99,837,1
+389,6.73,"Hey, That's My Fish!",727,6.638,11.99,17500,1
+390,7.01,"Eight-Minute Empire: Legends",728,6.638,29.99,3857,1
+391,7.33,"Witness",729,6.637,39.99,2053,1
+392,7.11,"Tales & Games: The Hare & the Tortoise",730,6.637,29.99,3055,1
+393,7.96,"Star Trek: Frontiers",731,6.637,79.99,1151,1
+394,7.41,"Quartermaster General",732,6.636,49.99,1972,1
+395,7.36,"Sons of Anarchy: Men of Mayhem",734,6.635,49.99,2158,1
+396,6.92,"Steam Park",739,6.629,54.99,5009,1
+397,7.12,"Risk: Star Wars Edition",742,6.628,29.99,3037,1
+398,7.22,"Fields of Green",747,6.625,49.95,2333,1
+399,7.8,"Tak",748,6.624,55,1447,1
+400,6.95,"Primordial Soup",750,6.624,49.99,4406,1
+401,7.04,"Linko!",751,6.623,13.99,3423,1
+402,7.55,"My Little Scythe",752,6.623,50,1688,1
+403,7.94,"Exit: The Game – Dead Man on the Orient Express",754,6.621,14.95,1053,1
+404,7.36,"Railroad Ink: Deep Blue Edition",755,6.621,19.99,1958,1
+405,7.56,"Just One",756,6.62,24.99,1503,1
+406,6.89,"Runebound (Second Edition)",757,6.62,49.99,7454,1
+407,6.87,"Power Grid: Factory Manager",761,6.619,44.99,5571,1
+408,7.04,"Honshū",762,6.619,25,3371,1
+409,7.68,"Feudum",763,6.618,79.99,1592,1
+410,7.61,"AuZtralia",764,6.617,52.99,1523,1
+411,7.19,"Planet Steam",765,6.617,59.99,2530,1
+412,7.2,"Meeple Circus",768,6.615,49.99,2550,1
+413,7.76,"Pandemic: Rising Tide",770,6.614,49.99,1250,1
+414,6.98,"NMBR 9",771,6.613,18.19,3891,1
+415,6.96,"Fleet",772,6.611,24.99,4039,1
+416,7.54,"Kitchen Rush",774,6.609,60.16,1527,1
+417,7.12,"Catacombs",776,6.607,54.99,2805,1
+418,7.36,"Vikings Gone Wild",783,6.602,44.99,2221,1
+419,7.04,"Two Rooms and a Boom",784,6.602,24.99,3467,1
+420,7.1,"Fortune and Glory: The Cliffhanger Game",787,6.602,99.99,3162,1
+421,6.85,"Animal Upon Animal",788,6.601,25,5926,1
+422,6.88,"Blueprints",790,6.601,29.99,5348,1
+423,7.21,"Dale of Merchants",791,6.599,20.06,2444,1
+424,6.95,"Hacienda",794,6.597,39.99,3899,1
+425,6.83,"Shadow Hunters",797,6.597,29.99,7314,1
+426,6.87,"ICECOOL",800,6.595,29.99,5411,1
+427,6.92,"La Isla",801,6.594,35.99,4225,1
+428,7.54,"Heroes of Normandie",802,6.594,69.99,1687,1
+429,6.91,"Viceroy",806,6.59,34.99,4475,1
+430,7.77,"Julius Caesar",807,6.59,62.98,1205,1
+431,7.18,"When I Dream",808,6.59,39.99,2424,1
+432,6.97,"Guildhall",809,6.59,29.99,3625,1
+433,7.28,"The Grimm Forest",810,6.589,44.99,2424,1
+434,7.07,"Coconuts",811,6.589,35.95,3053,1
+435,7.58,"Andean Abyss",813,6.586,74.99,1428,1
+436,7.42,"Watson & Holmes",816,6.584,59.99,1686,1
+437,7.13,"Carcassonne: South Seas",817,6.583,34.99,2606,1
+438,6.74,"Catan Card Game",818,6.583,24.99,12095,1
+439,6.97,"Dream Home",819,6.581,21.97,3911,1
+440,7.04,"Mottainai",820,6.581,24.99,2949,1
+441,7.41,"Ticket to Ride: Rails & Sails",821,6.581,80,1865,1
+442,7.27,"Unlock! Squeek & Sausage",822,6.58,9.06,1897,1
+443,6.89,"New York 1901",823,6.58,59.99,4523,1
+444,6.93,"Arkadia",824,6.578,44.99,3931,1
+445,7.22,"Escape Room: The Game",826,6.576,39.99,2163,1
+446,6.75,"Fairy Tale",829,6.575,19.99,7974,1
+447,6.97,"A Touch of Evil: The Supernatural Game",830,6.573,59.95,4194,1
+448,6.79,"The Werewolves of Miller's Hollow",831,6.57,12.99,8471,1
+449,7.63,"Smash Up: It's Your Fault!",832,6.568,19.99,1369,1
+450,7.74,"Whitehall Mystery",833,6.568,39.95,1171,1
+451,6.81,"Cleopatra and the Society of Architects",836,6.566,49.95,5973,1
+452,6.68,"Tsuro",837,6.566,29.99,19810,1
+453,6.66,"Machi Koro",840,6.563,29.99,20979,1
+454,7.26,"Skull King",841,6.562,14.99,2018,1
+455,6.76,"Rise of Augustus",843,6.557,39.99,6852,1
+456,7.9,"Liberty or Death: The American Insurrection",844,6.557,73.8,1039,1
+457,7.04,"Hostage Negotiator",847,6.555,24.99,2909,1
+458,8.28,"Mega Civilization",852,6.553,249.95,829,1
+459,6.88,"Evo",853,6.553,49.99,4286,1
+460,6.81,"Rattus",854,6.553,39.99,5265,1
+461,7.35,"The Prodigals Club",855,6.552,38.79,1626,1
+462,6.85,"Blokus Duo",856,6.552,14.99,4577,1
+463,6.99,"Medieval Academy",857,6.549,39.99,2991,1
+464,7.2,"Whistle Stop",859,6.547,59.95,2024,1
+465,6.86,"Quarto",860,6.545,34.95,4778,1
+466,7.64,"Plague Inc.: The Board Game",861,6.545,39.99,1863,1
+467,6.73,"Elfenland",864,6.535,44.99,7375,1
+468,7.2,"Sylvion",865,6.533,29.99,2040,1
+469,6.86,"Wings of War: Famous Aces",866,6.531,34.95,4513,1
+470,7.27,"New Angeles",867,6.529,59.95,1909,1
+471,6.67,"Castle Panic",869,6.528,34.99,12604,1
+472,7.03,"XenoShyft: Onslaught",872,6.527,46.47,2771,1
+473,7.17,"Dead Men Tell No Tales",873,6.526,44.99,2212,1
+474,7.59,"Thunderbirds",875,6.526,69.99,1394,1
+475,7.12,"Nothing Personal",877,6.522,60,2098,1
+476,7.43,"High Frontier",878,6.522,59.99,1460,1
+477,6.97,"Amyitis",879,6.521,44.99,2781,1
+478,6.93,"Cosmic Encounter",880,6.52,59.95,3756,1
+479,6.85,"Starship Catan",883,6.52,36.99,4070,1
+480,7.25,"Werewords",884,6.519,19.95,1776,1
+481,7.04,"Merkator",885,6.519,70,2376,1
+482,7.63,"Wallenstein (second edition)",886,6.519,79.99,1139,1
+483,6.88,"Doom: The Boardgame",887,6.517,69.99,4870,1
+484,7.24,"Ponzi Scheme",893,6.516,59.99,1768,1
+485,6.78,"Say Anything",895,6.514,19.99,5111,1
+486,7.18,"Royals",896,6.514,49.99,1923,1
+487,7.19,"The Staufer Dynasty",897,6.513,59.99,1827,1
+488,6.72,"Ubongo",898,6.512,39.99,6670,1
+489,8.01,"Advanced Squad Leader: Starter Kit #3",899,6.511,36,916,1
+490,7.16,"Herbaceous",900,6.51,24.99,2137,1
+491,7.2,"Istanbul: The Dice Game",901,6.509,23.99,1865,1
+492,6.92,"Le Havre: The Inland Port",902,6.509,39.99,2963,1
+493,7.57,"Blackout: Hong Kong",903,6.509,69.99,1186,1
+494,6.86,"The Magic Labyrinth",905,6.508,29.99,3900,1
+495,7.27,"Lovecraft Letter",912,6.504,29.99,1712,1
+496,7.11,"Villainous",914,6.502,39.99,2591,1
+497,6.69,"Cartagena",915,6.501,31.99,7093,1
+498,7.68,"Crusaders: Thy Will Be Done",917,6.501,59.95,1077,1
+499,7.17,"Archaeology: The New Expedition",918,6.501,19.99,1948,1
+500,7.63,"Stronghold (2nd edition)",920,6.498,42.18,1129,1
+501,8.13,"Star Realms: Frontiers",923,6.497,19.8,829,1
+502,6.6,"Saboteur",924,6.497,14.99,21026,1
+503,6.85,"Bausack",925,6.496,74.99,3644,1
+504,6.71,"Timeline: Inventions",927,6.496,14.99,6476,1
+505,6.72,"Tides of Time",930,6.493,12,5656,1
+506,6.94,"Gravwell: Escape from the 9th Dimension",931,6.493,28,2875,1
+507,6.7,"Poker",933,6.492,16.99,8021,1
+508,7.06,"Fallout",934,6.492,59.95,3288,1
+509,6.84,"Dice City",937,6.489,39.99,3759,1
+510,6.87,"Warrior Knights",938,6.489,59.95,3666,1
+511,7.14,"Unlock! The Formula",940,6.486,14.99,1860,1
+512,6.92,"The Little Prince: Make Me a Planet",941,6.485,24.99,2972,1
+513,7.38,"Deep Space D-6",944,6.483,24.99,1502,1
+514,6.93,"Escape from the Aliens in Outer Space",946,6.481,40,2881,1
+515,7,"Pixel Tactics",947,6.481,14.99,2575,1
+516,7.17,"Mü & More",948,6.481,29.95,1779,1
+517,6.66,"Spot it!",950,6.479,12.99,9162,1
+518,7.36,"Valley of the Kings: Afterlife",953,6.477,19.99,1407,1
+519,6.73,"Ghost Blitz",955,6.477,17.99,5417,1
+520,6.66,"TransAmerica",958,6.474,29.49,7267,1
+521,7.34,"Wars of the Roses: Lancaster vs. York",959,6.474,69.99,1405,1
+522,6.83,"Factory Fun",961,6.471,49.99,3326,1
+523,7.26,"Fireball Island: The Curse of Vul-Kar",963,6.471,79.99,1924,1
+524,7.29,"Medina (second edition)",964,6.471,59.99,1465,1
+525,6.82,"Rune Age",967,6.47,29.99,3964,1
+526,6.65,"Mascarade",969,6.469,24.99,7909,1
+527,7.25,"The Captain Is Dead",970,6.469,49.99,1740,1
+528,6.85,"D-Day Dice",972,6.467,39.95,3239,1
+529,6.71,"Blue Moon",973,6.467,27.99,5268,1
+530,7.31,"Sentient",974,6.467,55,1450,1
+531,6.81,"Blokus 3D",975,6.467,24.99,3671,1
+532,7.12,"Ticket to Ride: New York",979,6.465,19.99,1913,1
+533,6.66,"Fearsome Floors",980,6.465,39.99,6900,1
+534,6.84,"Power Grid: The First Sparks",981,6.465,44.99,3247,1
+535,7.29,"Tiny Epic Zombies",983,6.464,24.94,1865,1
+536,6.61,"Ca$h 'n Gun$",984,6.464,33.64,9357,1
+537,7.45,"Galaxy Defenders",985,6.463,102.99,1371,1
+538,6.82,"Kodama: The Tree Spirits",986,6.463,19.99,3727,1
+539,6.97,"Star Wars: Epic Duels",988,6.462,49.99,2912,1
+540,7.55,"Battle for Rokugan",989,6.461,39.95,1204,1
+541,6.93,"Blokus Trigon",991,6.46,29.99,2695,1
+542,7.08,"Coup: Rebellion G54",996,6.458,29.99,2055,1
+543,7.49,"Legacy of Dragonholt",998,6.456,59.95,1292,1
+544,6.86,"Traders of Osaka",999,6.456,29.99,2893,1
+545,7.07,"Rise of Empires",1000,6.455,55,1941,1
+546,6.89,"Happy Salmon",1001,6.455,14.99,2925,1
+547,7.11,"Merlin",1003,6.455,59.99,1901,1
+548,7.37,"DC Comics Deck-Building Game: Heroes Unite",1004,6.455,39.99,1470,1
+549,7.51,"Dragonfire",1006,6.453,47.84,1482,1
+550,6.88,"Ad Astra",1007,6.452,59.95,2746,1
+551,7.35,"Dungeons & Dragons Dice Masters: Battle for Faerûn",1011,6.452,22.99,1365,1
+552,6.94,"Call of Cthulhu: The Card Game",1013,6.451,39.95,2814,1
+553,7.5,"Riverboat",1014,6.45,69.99,1118,1
+554,7.56,"The Estates",1016,6.448,59.99,1055,1
+555,7.61,"Empires of the Void II",1017,6.446,79.98,1058,1
+556,6.87,"Havana",1018,6.446,44.99,2781,1
+557,7.48,"Wildlands",1019,6.445,80,1244,1
+558,6.78,"Timeline: Events",1021,6.444,14.99,3625,1
+559,6.92,"Tides of Madness",1028,6.438,12,2526,1
+560,6.72,"Manhattan",1029,6.438,39.99,4323,1
+561,7.11,"Barony",1030,6.438,49.99,1896,2
+562,6.8,"Lost Cities: The Board Game",1031,6.437,39.99,3317,2
+563,6.81,"I'm the Boss!",1033,6.436,49.99,3307,2
+564,7.63,"Battle Cry: 150th Civil War Anniversary Edition",1034,6.435,59.99,1049,2
+565,7.13,"Exit: The Game – The Polar Station",1035,6.434,14.95,1636,2
+566,7.48,"Axis & Allies Pacific 1940",1036,6.433,89.99,1426,2
+567,7.17,"Exit: The Game – The Forgotten Island",1038,6.433,14.95,1542,2
+568,6.82,"Timeline: Diversity",1040,6.432,14.99,3245,2
+569,7.13,"Viral",1041,6.432,49.99,1710,2
+570,7.54,"World in Flames",1042,6.432,149,1255,2
+571,7.61,"Gentes",1045,6.429,59.95,976,2
+572,7.85,"New Frontiers",1047,6.427,56.12,828,2
+573,7.15,"Masmorra: Dungeons of Arcadia",1050,6.425,64.99,1922,2
+574,6.86,"Krosmaster: Arena",1052,6.424,79.99,3137,2
+575,6.93,"Empire Builder",1053,6.423,42,2697,2
+576,6.61,"Eight-Minute Empire",1054,6.423,24.99,6581,2
+577,6.54,"Guillotine",1055,6.423,14.99,17680,2
+578,7.71,"The Hunters: German U-Boats at War, 1939-43",1056,6.423,48.43,998,2
+579,7.05,"Sun Tzu",1062,6.419,39.99,1848,2
+580,6.94,"Oceanos",1063,6.419,39.99,2282,2
+581,6.72,"Junta",1065,6.419,39.99,5015,2
+582,7.17,"Cat Lady",1067,6.418,24.99,1622,2
+583,7.82,"Rum & Bones: Second Tide",1068,6.417,99.99,908,2
+584,6.85,"Space Cadets: Dice Duel",1069,6.417,49.99,2757,2
+585,6.68,"Quoridor",1071,6.416,34.99,5305,2
+586,7.54,"Star Trek: Attack Wing",1072,6.416,41.22,1733,2
+587,7.16,"Ghost Fightin' Treasure Hunters",1074,6.415,34.99,1647,2
+588,6.85,"Gulo Gulo",1077,6.412,39.99,2682,2
+589,6.9,"On the Underground",1079,6.41,39.99,2272,2
+590,6.73,"Samurai Spirit",1080,6.41,29.99,3703,2
+591,6.64,"Tiny Epic Kingdoms",1081,6.41,29.99,6112,2
+592,6.74,"Revolution!",1086,6.407,39.99,3863,2
+593,6.86,"Artifacts, Inc.",1087,6.407,24.99,2546,2
+594,6.81,"The Rose King",1090,6.406,19.95,2795,2
+595,7.53,"Duelosaur Island",1095,6.403,34.95,1055,2
+596,7.22,"Ascension: Rise of Vigil",1096,6.401,39.99,1472,2
+597,6.94,"The Great Heartland Hauling Co.",1101,6.4,19.99,2115,2
+598,6.98,"Evo (second edition)",1102,6.399,49.99,1995,2
+599,6.87,"Indigo",1103,6.399,35.99,2446,2
+600,6.96,"Historia",1106,6.397,54.99,2072,2
+601,6.92,"The Red Dragon Inn 2",1108,6.396,37.99,2513,2
+602,7.25,"Legendary Encounters: A Firefly Deck Building Game",1110,6.395,59.99,1384,2
+603,6.61,"Cockroach Poker",1111,6.395,11.99,5981,2
+604,7.21,"Betrayal at Baldur's Gate",1114,6.393,49.79,1702,2
+605,6.95,"Unearth",1116,6.39,34.95,2299,2
+606,6.85,"Beasty Bar",1118,6.39,19.99,2528,2
+607,6.58,"Pirate's Cove",1119,6.39,64.99,7613,2
+608,7.35,"Thunderstone Advance: Numenera",1120,6.389,59.99,1176,2
+609,8.4,"Unconditional Surrender! World War 2 in Europe",1122,6.389,70,628,2
+610,6.8,"Smash Up: The Obligatory Cthulhu Set",1123,6.389,19.99,2983,2
+611,6.52,"BANG!",1124,6.388,19.99,23206,2
+612,7.47,"Duel of Ages II",1125,6.388,49.99,1120,2
+613,7.62,"Pax Pamir",1126,6.388,34.99,919,2
+614,7.19,"Warhammer: Diskwars",1127,6.388,39.99,1683,2
+615,6.69,"Risk 2210 A.D.",1128,6.387,44.99,6304,2
+616,6.95,"PitchCar Mini",1130,6.387,70.78,1925,2
+617,7.45,"Lowlands",1131,6.386,69.99,1063,2
+618,7.22,"Prêt-à-Porter",1132,6.385,64.99,1326,2
+619,7.88,"Vindication",1136,6.383,79.99,852,2
+620,6.51,"Scotland Yard",1138,6.382,39.99,12309,2
+621,7.2,"New Bedford",1139,6.382,39.95,1432,2
+622,7.59,"Shards of Infinity",1140,6.382,20,1047,2
+623,7.76,"Warfighter: The Tactical Special Forces Card Game",1142,6.381,59.99,917,2
+624,7.08,"Paper Tales",1143,6.381,44.95,1601,2
+625,7.37,"Marvel Dice Masters: Age of Ultron",1144,6.38,15.99,1139,2
+626,6.55,"Pickomino",1145,6.379,17.99,7759,2
+627,7.01,"Founding Fathers",1151,6.376,47.94,1704,2
+628,6.76,"The Bottle Imp",1154,6.373,19.95,2877,2
+629,6.99,"Imagine",1156,6.37,17.99,1893,2
+630,7,"La Boca",1157,6.37,39.99,1746,2
+631,6.69,"Babel",1158,6.37,24.99,3554,2
+632,7.6,"DOOM: The Board Game",1159,6.369,79.95,1085,2
+633,7.84,"Thunderstone Advance: Worlds Collide",1162,6.369,49.99,757,2
+634,6.7,"Axis & Allies",1163,6.369,44.99,5578,2
+635,7.15,"Spyfall 2",1164,6.368,25,1405,2
+636,7.6,"Kingsburg (Second Edition)",1166,6.368,59.99,899,2
+637,6.76,"Timeline: Discoveries",1167,6.368,14.99,2994,2
+638,6.55,"Mystery of the Abbey",1168,6.368,59.99,7307,2
+639,6.81,"Beyond Balderdash",1171,6.367,24.99,2709,2
+640,6.53,"Backgammon",1174,6.364,12.09,10249,2
+641,6.54,"Jungle Speed",1175,6.363,14.99,9731,2
+642,7.96,"RAF: The Battle of Britain 1940",1176,6.363,80,730,2
+643,7.07,"Eurorails",1179,6.362,42,1669,2
+644,7.04,"Show Manager",1182,6.36,49.95,1597,2
+645,6.89,"Royal Palace",1184,6.359,39.99,1991,2
+646,6.87,"Welcome Back to the Dungeon",1187,6.358,14.99,2203,2
+647,6.97,"The Castles of Burgundy: The Dice Game",1191,6.354,14.99,1747,2
+648,7.19,"Mangrovia",1194,6.35,39.99,1276,2
+649,6.64,"Hare & Tortoise",1196,6.35,29.99,3969,2
+650,7.3,"Blue Lagoon",1200,6.348,32.99,1113,2
+651,6.51,"Niagara",1202,6.347,49.99,7306,2
+652,6.77,"Timeline: Music & Cinema",1204,6.346,14.99,2626,2
+653,6.84,"Favor of the Pharaoh",1205,6.346,59.99,2214,2
+654,7.48,"Time's Up! Deluxe",1211,6.344,29.99,909,2
+655,7.23,"Outfoxed!",1212,6.343,19.99,1262,2
+656,7.15,"Love Letter: The Hobbit – The Battle of the Five Armies",1213,6.343,10.99,1430,2
+657,6.94,"Seeland",1217,6.338,39.99,1720,2
+658,6.99,"The Princes of Machu Picchu",1220,6.337,202,1585,2
+659,7.13,"Kashgar: Merchants of the Silk Road",1222,6.336,39.99,1301,2
+660,6.56,"The Great Dalmuti",1223,6.336,14.99,6163,2
+661,6.82,"Hit Z Road",1224,6.335,39.99,2378,2
+662,6.97,"Bloodborne: The Card Game",1225,6.335,34.99,2043,2
+663,7.2,"Steam Time",1226,6.334,46.99,1207,2
+664,7.87,"Camel Up (Second Edition)",1228,6.333,39.99,728,2
+665,6.82,"New York Slice",1229,6.333,29.95,2182,2
+666,7.37,"Treasure Island",1230,6.332,59.99,1082,2
+667,7.61,"Teenage Mutant Ninja Turtles: Shadows of the Past",1232,6.331,89.99,983,2
+668,8.54,"Star Wars: X-Wing (Second Edition)",1237,6.33,39.95,559,2
+669,7.48,"Heroscape Master Set:  Battle for the Underdark",1238,6.329,44.99,970,2
+670,7.05,"Horus Heresy (2010)",1241,6.328,99.95,1527,2
+671,7.02,"Agents of SMERSH",1244,6.326,65,1495,2
+672,6.98,"Beyond Baker Street",1245,6.326,34.99,1551,2
+673,6.64,"World of Warcraft: The Boardgame",1246,6.326,89.95,4978,2
+674,7.16,"Robo Rally",1247,6.326,39.99,1412,2
+675,7.63,"Last Night on Earth: Timber Peak",1248,6.326,49.99,870,2
+676,6.85,"Relic",1249,6.325,59.95,2642,2
+677,6.8,"Compounded",1251,6.325,34.99,2267,2
+678,6.73,"Tiny Epic Western",1254,6.324,25,3016,2
+679,7.23,"Covert",1259,6.323,60,1165,2
+680,7.59,"Fireteam Zero",1260,6.322,100,935,2
+681,7.6,"Ascension: Realms Unraveled",1261,6.321,39.99,876,2
+682,6.95,"Drum Roll",1262,6.32,48.99,1650,2
+683,6.99,"Trambahn",1263,6.32,21,1549,2
+684,6.58,"Tsuro of the Seas",1264,6.319,39.99,4832,2
+685,6.57,"The Red Dragon Inn",1267,6.318,37.99,6138,2
+686,7.14,"The King Is Dead",1270,6.317,24.95,1262,2
+687,6.8,"Cthulhu Realms",1271,6.317,19.99,2401,2
+688,7.1,"Confusion:  Espionage and Deception in the Cold War",1272,6.316,59.99,1274,2
+689,6.77,"Sail to India",1273,6.316,19.99,2278,2
+690,6.92,"Hermagor",1276,6.315,39.99,1731,2
+691,7.54,"Smash Up: Cease and Desist",1280,6.314,24.99,892,2
+692,6.57,"Cutthroat Caverns",1284,6.313,34.95,4532,2
+693,6.66,"Elasund: The First City",1287,6.312,49,3100,2
+694,7.51,"Castell",1289,6.311,60,840,2
+695,6.77,"A Game of Thrones: Hand of the King",1291,6.308,12.95,2327,2
+696,6.54,"Talisman (Revised 4th Edition)",1292,6.307,87.99,11457,2
+697,6.85,"Pastiche",1293,6.307,59.99,1905,2
+698,6.83,"Catan Histories: Settlers of America – Trails to Rails",1294,6.307,55,2035,2
+699,7.13,"Star Trek Panic",1295,6.306,39.99,1334,2
+700,6.48,"SET",1296,6.306,12.99,9399,2
+701,6.94,"Wits & Wagers Family",1298,6.305,19.99,1588,2
+702,7.03,"Tortuga 1667",1299,6.305,24.99,1649,2
+703,6.93,"Wits & Wagers Party",1300,6.305,24.99,1668,2
+704,6.71,"Marrakech",1301,6.305,29.99,2638,2
+705,6.96,"Adventure Land",1303,6.304,39.99,1538,2
+706,6.79,"The Hanging Gardens",1305,6.304,34.95,2087,2
+707,6.82,"Hamsterrolle",1307,6.303,69.99,1901,2
+708,6.77,"The Bridges of Shangri-La",1308,6.303,42.99,2192,2
+709,6.99,"The Ark of the Covenant",1309,6.303,19.99,1459,2
+710,7.21,"The Red Dragon Inn 3",1310,6.303,37.99,1313,2
+711,6.93,"Zombie 15'",1312,6.302,79.99,1711,2
+712,7.87,"Normandy '44",1313,6.302,55,690,2
+713,7.59,"Fighting Formations: Grossdeutschland Motorized Infantry Division",1315,6.302,85,822,2
+714,6.73,"My First Carcassonne",1317,6.301,34.95,2648,2
+715,7.39,"One Deck Dungeon: Forest of Shadows",1318,6.301,20.99,989,2
+716,7.19,"Calimala",1319,6.3,49,1126,2
+717,6.54,"Wasabi!",1320,6.3,39.99,4592,2
+718,7.14,"Wings of War: Burning Drachens",1321,6.3,34.95,1302,2
+719,6.82,"Nyet!",1322,6.299,18.77,1896,2
+720,7.8,"La Cosa Nostra",1323,6.298,28.95,732,2
+721,7.72,"Field Commander: Napoleon",1324,6.298,99.99,743,2
+722,7.2,"Agricola: Family Edition",1328,6.297,45,1177,2
+723,6.69,"Good Cop Bad Cop",1329,6.297,19.99,2644,2
+724,6.73,"City of Horror",1331,6.294,49.99,2647,2
+725,8.02,"Res Arcana",1332,6.294,39.99,644,2
+726,6.57,"Harbour",1334,6.292,19.95,3954,2
+727,6.63,"Space Cadets",1335,6.292,59.99,3027,2
+728,6.89,"20th Century",1336,6.292,59.99,1610,2
+729,6.96,"Riff Raff",1338,6.291,69.99,1497,2
+730,6.61,"Frank's Zoo",1339,6.291,11.95,3199,2
+731,6.74,"Paris Connection",1341,6.291,62.99,2110,2
+732,6.78,"Copycat",1342,6.29,49.99,1990,2
+733,7.03,"Castellion",1347,6.288,24.99,1378,2
+734,6.75,"Snake Oil",1348,6.287,19.99,2279,2
+735,6.58,"Werewolf",1350,6.287,12.99,4098,2
+736,6.7,"Samurai Sword",1356,6.285,19.99,2792,2
+737,6.8,"Lotus",1358,6.284,25.93,2040,2
+738,7.44,"1870: Railroading across the Trans Mississippi from 1870",1360,6.283,44.99,868,2
+739,6.74,"Isla Dorada",1361,6.283,49.95,2277,2
+740,6.64,"Alea Iacta Est",1366,6.28,34.99,2589,2
+741,6.8,"Qin",1368,6.278,39.99,1877,2
+742,6.7,"Dr. Eureka",1369,6.278,21.99,2355,2
+743,6.65,"Mall of Horror",1370,6.278,44.99,2814,2
+744,6.92,"Holmes: Sherlock & Mycroft",1372,6.276,24.99,1575,2
+745,7.79,"Heroes of Terrinoth",1373,6.276,32.96,780,2
+746,7.53,"Sails of Glory",1376,6.275,102.99,874,2
+747,6.96,"Exit: The Game – The Forbidden Castle",1382,6.272,14.95,1357,2
+748,6.61,"FITS",1384,6.272,35.99,2863,2
+749,6.63,"Mafia de Cuba",1385,6.271,29.99,2852,2
+750,7.16,"Flip Ships",1386,6.27,40,1092,2
+751,6.91,"Samarkand: Routes to Riches",1387,6.27,62.99,1518,2
+752,7.06,"Otys",1391,6.268,49.99,1227,2
+753,7.23,"Coal Baron: The Great Card Game",1392,6.267,39.95,1006,2
+754,6.57,"Android: Infiltration",1393,6.267,34.95,3394,2
+755,6.92,"Conquest of Planet Earth: The Space Alien Game",1394,6.266,49.99,1519,2
+756,6.76,"Urban Sprawl",1397,6.265,69.99,1878,2
+757,6.72,"Oasis",1398,6.265,34.99,2113,2
+758,7.38,"City of Iron: Second Edition",1400,6.263,54.99,869,2
+759,6.88,"Wiz-War",1501,6.221,49.95,1575,2
+760,6.92,"Safranito",1502,6.221,39.99,1296,2
+761,7.2,"Cosmic Encounter",1505,6.22,59.95,946,2
+762,6.83,"PÜNCT",1507,6.219,32.99,1509,2
+763,6.79,"Pantheon",1508,6.219,39.99,1531,2
+764,6.47,"Villa Paletti",1510,6.218,24.99,3789,2
+765,7.01,"King's Forge",1511,6.218,50,1237,2
+766,6.6,"Chicken Cha Cha Cha",1513,6.217,44.99,2506,2
+767,8.09,"Yellow & Yangtze",1514,6.217,59.99,497,2
+768,6.93,"Kings of Air and Steam",1517,6.215,59.99,1229,2
+769,6.63,"Pente",1519,6.213,17,2542,2
+770,7.5,"Menara",1523,6.212,47.99,714,2
+771,7.3,"Thunder & Lightning",1524,6.212,34.99,819,2
+772,7.11,"First Train to Nuremberg",1525,6.212,54.99,983,2
+773,7.87,"Puzzle Strike Shadows",1527,6.211,49.99,579,2
+774,6.77,"Basari",1534,6.207,17.99,1552,2
+775,7.1,"Silverton",1535,6.205,45,991,2
+776,6.87,"Olympus",1536,6.205,59.95,1312,2
+777,6.62,"O Zoo le Mio",1538,6.205,35,2089,2
+778,6.89,"Ancient Terrible Things",1539,6.205,49.14,1387,2
+779,7.38,"Zulus on the Ramparts!",1542,6.203,39.99,789,2
+780,7.91,"Colonial Twilight: The French-Algerian War, 1954-62",1543,6.203,75,545,2
+781,7.08,"Timeline Challenge",1544,6.203,11.54,1014,2
+782,6.36,"Gloom",1545,6.203,24.99,11882,2
+783,6.8,"Sea of Clouds",1546,6.202,29.99,1588,2
+784,6.74,"VivaJava: The Coffee Game: The Dice Game",1553,6.2,29.99,1628,2
+785,6.88,"Tikal II: The Lost Temple",1556,6.2,59.99,1254,2
+786,6.55,"Epic Card Game",1557,6.2,17.14,3630,2
+787,7.27,"Thanos Rising: Avengers Infinity War",1559,6.199,49.95,967,2
+788,7.37,"Dungeon Command: Heart of Cormyr",1561,6.199,39.99,820,2
+789,6.91,"Happy Pigs",1563,6.198,34.99,1250,2
+790,6.54,"Boomtown",1567,6.196,22.95,2541,2
+791,6.9,"Conquest of Paradise",1568,6.195,57,1259,2
+792,8.31,"The U.S. Civil War",1569,6.195,75,467,2
+793,7.65,"LYNGK",1571,6.195,34.95,627,2
+794,6.38,"Metro",1573,6.195,39.99,5213,2
+795,8.38,"Concordia Venus",1575,6.195,79.95,402,2
+796,6.42,"Age of War",1576,6.194,12.95,5121,2
+797,6.45,"Friday the 13th",1578,6.193,16.99,3608,2
+798,6.86,"Power Grid: The Card Game",1581,6.193,19.95,1308,2
+799,6.65,"Relic Runners",1584,6.192,59.99,1967,2
+800,7.42,"XenoShyft: Dreadmire",1585,6.192,59.99,768,2
+801,6.88,"Jórvík",1586,6.191,59.95,1297,2
+802,6.88,"Dimension",1587,6.19,49.99,1255,2
+803,7.33,"Dungeon Command: Sting of Lolth",1588,6.19,39.99,851,2
+804,6.89,"Isle of Trains",1589,6.19,11.99,1230,2
+805,7.55,"Risk Europe",1590,6.187,29.99,793,2
+806,7.03,"Fantastiqa",1591,6.187,69.99,1038,2
+807,6.71,"Mundus Novus",1593,6.187,29.99,1627,2
+808,6.67,"Catan: Junior",1594,6.186,30,2000,2
+809,6.33,"Rummikub",1597,6.186,17.99,10335,2
+810,6.43,"Balderdash",1599,6.185,24.99,4716,2
+811,6.8,"Dragonwood",1600,6.185,14.99,1749,2
+812,6.6,"The Settlers of the Stone Age",1602,6.184,49,2198,2
+813,7.07,"Carcassonne: Wheel of Fortune",1604,6.184,29.99,1020,2
+814,7.06,"Dice Settlers",1607,6.182,59.95,995,2
+815,6.57,"GOSU",1613,6.18,29.99,2412,2
+816,6.49,"Famiglia",1614,6.179,11.95,2778,2
+817,6.28,"Scrabble",1620,6.177,16.99,22872,2
+818,7.19,"Cytosis: A Cell Biology Board Game",1621,6.176,36.53,959,2
+819,6.76,"Strike",1623,6.176,19.99,1522,2
+820,6.87,"Star Wars Miniatures",1624,6.175,14.99,1496,2
+821,6.35,"Bananagrams",1629,6.173,14.99,6812,2
+822,6.75,"Prosperity",1630,6.173,49.99,1465,2
+823,6.51,"Cathedral",1631,6.173,39.99,3000,2
+824,7.25,"DC Comics Deck-Building Game: Forever Evil",1633,6.171,28.69,877,2
+825,6.98,"Bob Ross: Art of Chill Game",1634,6.171,24.99,1174,2
+826,6.53,"Masons",1636,6.17,39.99,2336,2
+827,6.62,"Anomia",1638,6.169,15.99,2135,2
+828,6.48,"River Dragons",1641,6.168,39.99,2937,2
+829,6.41,"Sorry! Sliders",1647,6.167,29.77,3482,2
+830,6.61,"Gang of Four",1651,6.164,19.99,2055,2
+831,6.65,"The Battle for Hill 218",1653,6.163,9.95,1687,2
+832,6.67,"Animals on Board",1654,6.162,24.95,1602,2
+833,6.95,"Drop It",1655,6.162,29.95,1048,2
+834,7.09,"Stop Thief!",1659,6.161,29.95,962,2
+835,6.89,"Kokoro: Avenue of the Kodama",1668,6.16,19.99,1102,2
+836,6.49,"Tempus",1669,6.16,49.95,2481,2
+837,7.23,"Skat",1673,6.158,16.99,819,2
+838,6.79,"One Night Ultimate Vampire",1674,6.158,24.99,1387,2
+839,7.49,"Space Cadets: Away Missions",1677,6.155,99.99,655,2
+840,6.49,"Cargo Noir",1679,6.155,49.99,2597,2
+841,6.89,"Custom Heroes",1680,6.155,29.99,1164,2
+842,7.37,"DreadBall: The Futuristic Sports Game",1681,6.155,79.99,776,2
+843,8.1,"Star Wars: Legion",1682,6.154,89.95,562,2
+844,6.79,"Catan: Portable Edition",1683,6.154,28,1395,2
+845,6.72,"Merchants of Amsterdam",1684,6.154,39.99,1495,2
+846,6.74,"Machi Koro: Bright Lights, Big City",1685,6.153,29.99,1611,2
+847,7.68,"Quartermaster General: 1914",1686,6.153,59.95,549,2
+848,6.86,"Heroes Wanted",1689,6.151,40.83,1392,2
+849,7.08,"Legacy: Gears of Time",1690,6.151,49.99,897,2
+850,8,"Red Winter: The Soviet Attack at Tolvajärvi, Finland – 8-12 December 1939",1692,6.151,50,446,2
+851,8.04,"The World of SMOG: Rise of Moloch",1697,6.149,77,559,2
+852,7.91,"Lignum (second edition)",1698,6.148,49.95,459,2
+853,6.82,"Byzantium",1699,6.148,59.95,1168,2
+854,7.34,"Hunt for the Ring",1702,6.147,41.97,720,2
+855,8.09,"Frostgrave",1703,6.146,24.95,501,2
+856,7.13,"Battlestations",1708,6.145,59.95,910,2
+857,6.41,"Cave Troll",1709,6.143,34.95,3342,2
+858,7.05,"Valletta",1713,6.143,24.85,866,2
+859,7.49,"Dungeon Command: Curse of Undeath",1714,6.141,39.99,644,2
+860,6.31,"Boss Monster: The Dungeon Building Card Game",1717,6.141,24.99,11260,2
+861,6.92,"Queen's Architect",1721,6.139,59.99,1013,2
+862,6.46,"Pandemic: Contagion",1726,6.137,29.99,2680,2
+863,6.38,"Shear Panic",1727,6.137,30,3551,2
+864,6.9,"VivaJava: The Coffee Game",1728,6.137,54.95,1008,2
+865,6.69,"World of Warcraft Trading Card Game",1732,6.134,13.73,1775,2
+866,7.24,"Xenon Profiteer",1735,6.134,29.99,706,2
+867,7.14,"March of the Ants",1736,6.133,38.44,818,2
+868,6.86,"Priests of Ra",1737,6.133,34.99,1101,2
+869,6.78,"Epic Spell Wars of the Battle Wizards: Rumble at Castle Tentakill",1738,6.133,29.99,1527,2
+870,6.83,"Outpost",1741,6.131,59.95,1115,2
+871,6.82,"The Lord of the Rings: The Fellowship of the Ring Deck-Building Game",1742,6.13,39.99,1263,2
+872,7.09,"Tao Long: The Way of the Dragon",1746,6.129,25,891,2
+873,6.3,"Loot",1748,6.128,9.99,5438,2
+874,6.85,"Big Boggle",1749,6.128,24.95,1181,2
+875,7.9,"1754: Conquest – The French and Indian War",1751,6.127,60.15,465,2
+876,7.04,"Nightfall: Martial Law",1757,6.124,39.99,837,2
+877,7.07,"Super Dungeon Explore: Forgotten King",1760,6.123,99.99,995,2
+878,6.49,"Joking Hazard",1762,6.122,25,3000,2
+879,7.52,"Cruel Necessity",1764,6.122,42.99,598,2
+880,6.68,"Axis & Allies: Pacific",1765,6.122,44.99,1851,2
+881,6.61,"10 Days in Europe",1767,6.122,27.99,1713,2
+882,7.11,"Planetarium",1770,6.12,40,833,2
+883,6.89,"Escape: Zombie City",1774,6.119,49.99,1034,2
+884,6.86,"City of Remnants",1775,6.118,64.99,1100,2
+885,8.05,"Comanchería: The Rise and Fall of the Comanche Empire",1776,6.118,60,421,2
+886,7.83,"The Great War",1778,6.116,90,487,2
+887,6.83,"Illusion",1780,6.116,14.95,1070,2
+888,6.56,"10 Days in Africa",1782,6.115,27.99,1841,2
+889,6.7,"Völuspá",1783,6.115,34.95,1352,2
+890,6.47,"Tannhäuser",1789,6.114,69.95,2950,2
+891,6.54,"Entdecker: Exploring New Horizons",1791,6.112,49,1873,2
+892,7.28,"Pixie Queen",1792,6.112,59.95,725,2
+893,6.77,"Karmaka",1793,6.112,30,1423,2
+894,6.72,"My First Stone Age",1796,6.11,39.99,1328,2
+895,6.39,"Flip City",1797,6.11,19.95,3067,2
+896,6.62,"Maori",1799,6.11,34.95,1448,2
+897,6.66,"Colony",1802,6.109,59.95,1446,2
+898,6.72,"Tesla vs. Edison: War of Currents",1806,6.106,56.94,1268,2
+899,6.69,"Pagoda",1807,6.105,25.47,1273,2
+900,6.61,"Dutch Blitz",1808,6.105,11.99,1876,2
+901,6.47,"Cloud 9",1810,6.104,24.99,2156,2
+902,7.41,"Dungeon Command: Tyranny of Goblins",1811,6.103,39.99,630,2
+903,6.5,"Unusual Suspects",1812,6.103,29.99,1911,2
+904,6.55,"Iliad",1813,6.103,21.99,1795,2
+905,6.54,"Ivanhoe",1814,6.102,25,1739,2
+906,6.75,"Africana",1818,6.102,44.99,1174,2
+907,6.5,"Carcassonne: The Discovery",1821,6.101,24.99,2061,2
+908,6.68,"Dark Souls: The Board Game",1825,6.1,159.99,2446,2
+909,6.39,"Airships",1828,6.1,39.99,2550,2
+910,7.26,"Seikatsu",1830,6.1,39.99,660,2
+911,6.38,"Star Fluxx",1833,6.098,15.99,4368,2
+912,6.22,"Zombie Dice",1834,6.098,13.99,14339,2
+913,7.32,"The Thing: Infection at Outpost 31",1836,6.096,59.99,765,2
+914,6.62,"Galactic Emperor",1840,6.096,54.95,1375,2
+915,6.61,"Rheinländer",1841,6.096,49.99,1467,2
+916,6.59,"Cardline: Animals",1847,6.093,14.99,1549,2
+917,6.47,"SeaFall",1850,6.093,79.99,2471,2
+918,6.48,"New World: A Carcassonne Game",1851,6.093,29.95,2048,2
+919,6.4,"Pentago",1854,6.092,19.99,2718,2
+920,7.06,"Steam Works",1856,6.092,59.99,771,2
+921,7.58,"Defenders of the Last Stand",1859,6.09,116.99,512,2
+922,6.53,"Gheos",1860,6.089,27.99,1681,2
+923,6.48,"Saint Malo",1864,6.088,35.99,1823,2
+924,6.56,"The Cave",1865,6.088,49,1611,2
+925,6.46,"Trias",1866,6.087,22.99,1934,2
+926,7.7,"Talon",1870,6.086,53.1,500,2
+927,6.52,"Axis & Allies: Europe",1874,6.085,44.99,2363,2
+928,7.2,"One Night Ultimate Alien",1875,6.085,36.6,685,2
+929,6.61,"Patrician",1876,6.085,35,1397,2
+930,7.23,"Tournament at Camelot",1878,6.084,24.99,713,2
+931,7.06,"Tales of the Arabian Nights",1879,6.084,59.99,777,2
+932,7.32,"Solenia",1880,6.084,44.99,658,2
+933,6.4,"Portobello Market",1882,6.083,39.99,2349,2
+934,6.44,"Queen's Necklace",1883,6.083,29.99,2223,2
+935,6.9,"Vault Wars",1887,6.083,21.39,946,2
+936,6.51,"Atlantis",1890,6.082,34.99,1710,2
+937,6.63,"Roll For It! Deluxe Edition",1892,6.081,37.99,1543,2
+938,6.84,"Codenames: Disney Family Edition",1893,6.081,24.95,985,2
+939,6.83,"The Builders: Antiquity",1898,6.079,17.99,975,2
+940,6.27,"Monopoly Deal Card Game",1902,6.079,7.99,7031,2
+941,7.41,"Coldwater Crown",1905,6.077,48,559,2
+942,7.53,"Marvel Dice Masters: The Amazing Spider-Man",1916,6.073,15.99,513,2
+943,7.02,"Ticket to Ride: First Journey (U.S.)",1917,6.072,34.99,840,2
+944,7.29,"Piepmatz",1925,6.07,14.99,586,2
+945,6.56,"The Dwarf King",1926,6.07,19.99,1516,2
+946,6.58,"1st & Goal",1927,6.07,29.99,1430,2
+947,7.61,"Call to Adventure",1930,6.069,39.95,603,2
+948,6.68,"Garden Dice",1934,6.068,39.99,1171,2
+949,6.96,"Thunderstone: Starter Set",1937,6.068,29.99,823,2
+950,6.62,"Escape the Room: Mystery at the Stargazer's Manor",1941,6.067,21.99,1282,2
+951,6.9,"The Road to Canterbury",1942,6.066,59.99,860,2
+952,6.8,"Ultimate Warriorz",1944,6.065,39.99,986,2
+953,7.35,"Factory Funner",1945,6.065,49.99,544,2
+954,6.46,"BraveRats",1946,6.065,10.99,1806,2
+955,6.46,"10 Days in the USA",1947,6.065,27.99,1851,2
+956,6.54,"Mesopotamia",1948,6.065,29.99,1517,2
+957,7.05,"Bohnanza: The Duel",1949,6.064,19.95,725,2
+958,6.88,"Linq",1950,6.064,19.99,858,2
+959,6.6,"Monza",1955,6.062,21.99,1369,2
+960,6.42,"Dancing Eggs",1956,6.062,20.99,2028,2
+961,7.68,"Ascension: Dreamscape",1957,6.061,39.99,467,2
+962,6.51,"Bazaar",1961,6.06,39.99,1581,2
+963,6.37,"Intrigue",1962,6.06,20,2376,2
+964,7.38,"Tiny Epic Defenders (Second Edition)",1963,6.059,29.99,581,2
+965,6.76,"The Blood of an Englishman",1964,6.059,15,1036,2
+966,6.95,"Battleground",1968,6.059,14.95,895,2
+967,7.68,"Four Against Darkness",1974,6.056,12.99,614,2
+968,7.23,"Baltimore & Ohio",1976,6.056,49.99,572,2
+969,6.36,"Rory's Story Cubes",1978,6.056,9.99,2655,2
+970,6.61,"Okiya",1980,6.056,13.99,1305,2
+971,6.65,"Blood Bound",1985,6.054,19.99,1288,2
+972,6.88,"SteamRollers",1987,6.053,49.95,825,2
+973,6.44,"Sleeping Queens",1988,6.052,9.99,2324,2
+974,6.47,"Industria",1990,6.052,34.95,1720,2
+975,6.71,"Cable Car",1991,6.052,54.99,1062,2
+976,6.98,"Bios: Megafauna",1993,6.051,71.99,750,2
+977,6.99,"Triassic Terror",1994,6.051,74.99,741,2
+978,6.58,"The Pillars of the Earth: Builders Duel",1995,6.051,25,1328,2
+979,7.41,"Element",1996,6.051,34.99,576,2
+980,8.22,"Warhammer Underworlds: Nightvault",1997,6.05,51,349,2
+981,6.53,"Kings & Things",1998,6.05,69.99,1567,2
+982,6.39,"Rook",2101,6.024,9.99,2260,2
+983,6.56,"Darjeeling",2102,6.024,49.99,1277,2
+984,6.52,"Eminent Domain: Microcosm",2103,6.024,9.99,1319,2
+985,6.45,"Gambit Royale",2106,6.023,24.99,1698,2
+986,6.64,"Praetor",2108,6.023,59.99,1146,2
+987,6.39,"Bezzerwizzer",2110,6.022,29.99,2141,2
+988,6.35,"Tiny Epic Defenders",2111,6.022,30,2192,2
+989,6.81,"Pinochle",2112,6.022,7.99,864,2
+990,6.6,"Battleship Galaxies",2114,6.021,64.99,1179,2
+991,6.38,"Magic: The Gathering – Arena of the Planeswalkers",2118,6.02,39.99,2432,2
+992,6.36,"Nefarious",2119,6.02,29.99,2119,2
+993,6.43,"Rum & Pirates",2120,6.02,39.99,1680,2
+994,7.09,"Campy Creatures",2122,6.02,24.99,669,2
+995,8.34,"A Song of Ice & Fire: Tabletop Miniatures Game – Stark vs Lannister Starter Set",2125,6.019,149.99,397,2
+996,6.21,"Chrononauts",2129,6.018,20,5021,2
+997,6.76,"Choose Your Own Adventure: House of Danger",2132,6.018,24.99,1013,2
+998,6.41,"Deadwood",2133,6.018,34.95,1729,2
+999,6.8,"Medici: The Card Game",2134,6.018,21.99,817,2
+1000,7.25,"DC Comics Deck-Building Game: Teen Titans",2135,6.016,39.99,600,2
+1001,6.77,"The Settlers of Canaan",2142,6.015,34.99,1246,2
+1002,7.98,"Legends of Andor: The Last Hope",2143,6.014,59.95,352,2
+1003,6.75,"Harvest Dice",2145,6.014,14.99,891,2
+1004,6.61,"Colonia",2148,6.013,38.76,1112,2
+1005,6.55,"Resident Evil Deck Building Game",2153,6.013,29.99,1650,2
+1006,8.24,"Conflict of Heroes: Guadalcanal – The Pacific 1942",2154,6.013,80,320,2
+1007,6.77,"Portal of Heroes",2156,6.012,18,877,2
+1008,6.39,"Pairs",2157,6.012,9.99,1786,2
+1009,6.83,"Dominare",2163,6.011,59.99,802,2
+1010,7.29,"Harvest",2164,6.01,31.98,532,2
+1011,6.93,"Tokyo Highway",2165,6.01,49.99,716,2
+1012,6.42,"Terra Nova",2168,6.009,29.99,1572,2
+1013,6.66,"Sunrise City",2170,6.008,50,982,2
+1014,8.03,"Phantom Leader Deluxe",2171,6.008,89.99,346,2
+1015,7.07,"Pioneers",2172,6.008,29.99,607,2
+1016,6.5,"Star Trek: Expeditions",2173,6.007,49.99,1414,2
+1017,6.77,"Neuroshima: Convoy",2175,6.007,20,881,2
+1018,7.01,"Axis & Allies Naval Miniatures: War at Sea",2186,6.004,24.99,713,2
+1019,6.15,"Dungeon Roll",2188,6.003,19.99,6792,2
+1020,6.73,"Railways of the World: The Card Game",2192,6.003,37.99,863,2
+1021,7.09,"Anomia: Party Edition",2195,6,29.99,649,2
+1022,6.6,"Qwirkle Cubes",2196,6,24.99,1067,2
+1023,7.06,"7 Ronin",2197,5.999,29.99,624,2
+1024,7.32,"Crystal Clans",2200,5.998,25.97,522,2
+1025,7.17,"The Great Dinosaur Rush",2201,5.998,62.79,538,2
+1026,6.36,"Car Wars",2205,5.997,19.99,2029,2
+1027,6.72,"Spaceteam",2207,5.997,29.95,975,2
+1028,6.87,"Arcane Academy",2208,5.997,39.99,784,2
+1029,6.16,"Kill Doctor Lucky",2209,5.996,40,6001,2
+1030,6.16,"Scattergories",2215,5.995,29.99,7198,2
+1031,6.47,"Entdecker",2216,5.995,49,1338,2
+1032,7.09,"Sunset Over Water",2218,5.995,24.99,592,2
+1033,6.77,"Spirits of the Rice Paddy",2222,5.994,50,799,2
+1034,7.25,"Axis & Allies: WWI 1914",2229,5.991,98.99,641,2
+1035,6.75,"Eggs and Empires",2231,5.991,17.99,796,2
+1036,7.15,"Jenseits von Theben",2233,5.99,49.95,532,2
+1037,6.29,"Master Labyrinth",2234,5.99,31.99,2209,2
+1038,6.65,"Via Appia",2235,5.99,59.99,952,2
+1039,6.51,"Lost Legends",2236,5.99,59.99,1205,2
+1040,6.68,"Courtier",2239,5.99,34.99,880,2
+1041,6.83,"Rolling Freight",2241,5.989,70,707,2
+1042,6.82,"Simurgh",2242,5.989,65,768,2
+1043,6.17,"Ticket to Ride: The Card Game",2243,5.989,25,3722,2
+1044,6.7,"Nevermore",2247,5.988,24.99,945,2
+1045,6.84,"Apotheca",2254,5.987,40,864,2
+1046,6.92,"Flick 'em Up!: Dead of Winter",2255,5.987,49.99,666,2
+1047,6.34,"Catch Phrase!",2256,5.987,28,2165,2
+1048,6.59,"Midgard",2257,5.987,39.95,991,2
+1049,6.82,"Fight for Olympus",2258,5.986,28,764,2
+1050,6.76,"The Enchanted Tower",2262,5.986,34.99,813,2
+1051,7.4,"Exit: The Game – The Mysterious Museum",2263,5.985,14.95,420,2
+1052,6.45,"Livingstone",2265,5.985,39.99,1371,2
+1053,6.46,"Dust",2266,5.985,59.95,1381,2
+1054,6.45,"Three-Dragon Ante",2268,5.985,14.99,1479,2
+1055,6.61,"Milestones",2270,5.984,49.95,962,2
+1056,6.43,"Dead Last",2271,5.984,24.99,1449,2
+1057,7.8,"Ukraine '43",2274,5.984,55,350,2
+1058,7.5,"Pixel Tactics Deluxe",2276,5.983,45,412,2
+1059,6.86,"Rush & Bash",2282,5.982,34.99,721,2
+1060,6.42,"Axis & Allies: D-Day",2286,5.981,39.99,1832,2
+1061,6.84,"Fortress America",2289,5.98,79.95,765,2
+1062,6.24,"Munchkin Cthulhu",2290,5.98,24.99,4529,2
+1063,6.52,"Subdivision",2295,5.979,49.99,1120,2
+1064,6.45,"Dos Rios",2296,5.979,49,1306,2
+1065,6.73,"Trick of the Rails",2298,5.978,24.99,771,2
+1066,7.97,"Wing Leader: Victories 1940-1942",2300,5.978,69,325,2
+1067,6.55,"12 Days",2303,5.976,15.99,1077,2
+1068,6.46,"Augsburg 1520",2306,5.975,39.95,1195,2
+1069,6.94,"Was sticht?",2308,5.975,29.95,596,2
+1070,6.86,"Kerala: The Way of the Elephant",2309,5.974,20.44,675,2
+1071,6.43,"Ice Flow",2310,5.974,49.99,1343,2
+1072,6.95,"Micropolis",2314,5.974,39.99,651,2
+1073,6.51,"If Wishes Were Fishes!",2321,5.971,34.95,1117,2
+1074,6.43,"Cthulhu Gloom",2325,5.971,24.99,1570,2
+1075,6.41,"The Witcher Adventure Game",2328,5.97,59.99,1936,2
+1076,6.37,"Loopin' Chewie",2329,5.97,25.99,1424,2
+1077,7.22,"Travel Carcassonne",2331,5.97,29.99,467,2
+1078,6.81,"Conquest of the Fallen Lands",2332,5.97,57.99,742,2
+1079,6.86,"Whoowasit?",2338,5.968,39.99,660,2
+1080,6.93,"New Dawn",2340,5.968,74.95,620,2
+1081,7.36,"DC Comics Dice Masters: War of Light",2341,5.967,15.99,433,2
+1082,7.07,"Chimera",2342,5.967,19.99,531,2
+1083,7.37,"Camp Grizzly",2344,5.966,50,526,2
+1084,6.28,"Toledo",2346,5.966,49,1860,2
+1085,6.71,"Camel Up Cards",2356,5.963,19.99,805,2
+1086,7.16,"Trapwords",2357,5.963,19.95,483,2
+1087,7.34,"Star Wars: Destiny – Two-Player Game",2359,5.963,29.95,455,2
+1088,7.29,"Dungeons & Dragons: Attack Wing",2360,5.963,49.99,504,2
+1089,6.68,"Go Nuts for Donuts",2361,5.963,14.99,960,2
+1090,6.43,"Grimoire",2364,5.962,24.99,1262,2
+1091,7.17,"Qwixx Deluxe",2365,5.962,17.99,490,2
+1092,6.3,"Ugg-Tect",2366,5.962,39.95,1714,2
+1093,6.34,"Tantrix",2371,5.961,19.99,1698,2
+1094,6.7,"Municipium",2374,5.961,44.95,756,2
+1095,6.34,"Kobayakawa",2377,5.96,14.99,1507,2
+1096,7.24,"Import / Export",2380,5.96,40,453,2
+1097,6.38,"Rent a Hero",2381,5.959,19.99,1369,2
+1098,6.89,"Sonar",2384,5.958,49.99,622,2
+1099,6.83,"Pyramids",2386,5.957,19.99,637,2
+1100,8.19,"D-Day at Tarawa",2388,5.957,59.15,277,2
+1101,6.07,"Stratego",2390,5.957,24.99,12008,2
+1102,6.8,"Dungeons & Dragons: Rock Paper Wizard",2392,5.956,19.99,738,2
+1103,6.57,"Mai-Star",2393,5.955,19.99,976,2
+1104,6.4,"504",2394,5.955,12.3,1338,2
+1105,6.98,"Buffy the Vampire Slayer: The Board Game",2395,5.954,39.99,712,2
+1106,6.68,"The River",2399,5.953,39.99,808,2
+1107,6.78,"Overseers",2401,5.953,25,781,2
+1108,6.38,"Star Wars: Empire vs. Rebellion",2402,5.953,12.99,1414,2
+1109,6.24,"Tongiaki: Journey into the Unknown",2403,5.953,19.99,2234,2
+1110,6.41,"Goldbräu",2404,5.953,37.95,1242,2
+1111,7.24,"Guildhall Fantasy: Fellowship",2408,5.952,27.99,448,2
+1112,7.06,"India Rails",2411,5.951,38,517,2
+1113,8.03,"Fields of Despair: France 1914-1918",2413,5.951,99.99,293,2
+1114,6.44,"Rolling America",2414,5.951,9.99,1148,2
+1115,6.5,"Madame Ching",2415,5.95,39.99,1023,2
+1116,6.27,"Battleball",2419,5.949,64.99,1996,2
+1117,6.32,"Wacky Wacky West",2420,5.949,34.99,1589,2
+1118,6.89,"Game of Thrones: The Iron Throne",2421,5.949,49.95,672,2
+1119,6.87,"Catan Geographies: Germany",2423,5.949,55,624,2
+1120,6.34,"Beowulf: The Movie Board Game",2424,5.948,34.95,1457,1
+1121,6.77,"Doodle Quest",2426,5.948,27.99,660,3
+1122,6.34,"Aqua Romana",2431,5.946,59.95,1509,3
+1123,6.83,"Go Cuckoo!",2434,5.946,19.99,674,3
+1124,7.95,"Dungeons & Dragons: Tomb of Annihilation Board Game",2435,5.946,159.99,342,3
+1125,8.27,"Sherlock Holmes Consulting Detective: Carlton House & Queen's Park",2436,5.946,49.99,262,3
+1126,6.53,"City Tycoon",2442,5.943,42.99,928,3
+1127,7.28,"Healthy Heart Hospital",2451,5.941,49.99,435,3
+1128,6.89,"Call of Cthulhu: Collectible Card Game",2453,5.94,39.95,652,3
+1129,7.25,"Agility",2454,5.94,24.95,431,3
+1130,6.25,"Munchkin Zombies",2460,5.939,24.99,2722,3
+1131,6.38,"Nautilus",2461,5.939,49,1310,3
+1132,7.09,"Legendary: Big Trouble in Little China",2463,5.939,49.99,499,3
+1133,6.5,"The Dragon & Flagon",2464,5.939,59.95,1008,3
+1134,6.54,"Munchkin Adventure Time",2468,5.938,24.99,1312,3
+1135,6.41,"Cities",2470,5.938,29.99,1129,3
+1136,6.45,"Pocket Battles: Celts vs. Romans",2471,5.938,14.99,1193,3
+1137,6.77,"Kaosball: The Fantasy Sport of Total Domination",2474,5.937,99.99,674,3
+1138,6.37,"Alcatraz: The Scapegoat",2477,5.936,39.99,1357,3
+1139,7.15,"Wordsy",2480,5.936,19.95,454,3
+1140,6.38,"Bamboleo",2481,5.935,69.99,1281,3
+1141,6.55,"Rattlebones",2485,5.934,59.99,880,3
+1142,6.52,"Spinderella",2486,5.934,36.99,978,3
+1143,6.71,"Speculation",2493,5.933,44.99,692,3
+1144,7.48,"Spirits of the Wild",2497,5.932,14.99,385,3
+1145,6.18,"Exploding Kittens: NSFW Deck",2505,5.931,20,5735,3
+1146,7.61,"Aventuria: Adventure Card Game",2512,5.93,49.99,388,3
+1147,7.15,"A Game of Thrones: Catan – Brotherhood of the Watch",2516,5.929,79.95,503,3
+1148,6.52,"Noah",2520,5.928,14.99,983,3
+1149,7.28,"Nightfall: The Coldest War",2530,5.927,39.99,384,3
+1150,6.77,"Empires of the Void",2532,5.927,59.99,645,3
+1151,8.38,"Axis Empires: Totaler Krieg!",2535,5.926,202,232,3
+1152,6.74,"Axis & Allies: Battle of the Bulge",2542,5.925,49.99,754,3
+1153,6.2,"Rat-a-Tat Cat",2544,5.924,10.99,2402,3
+1154,7.38,"Dust Tactics: Revised Core Set",2546,5.924,79.95,431,3
+1155,7.23,"Among the Stars: Revival",2552,5.923,44.99,387,3
+1156,7.23,"Tail Feathers",2554,5.923,69.99,463,3
+1157,6.07,"Othello",2556,5.922,13.99,6079,3
+1158,6.53,"Hnefatafl",2557,5.922,32,962,3
+1159,6.58,"Magna Grecia",2559,5.922,39.99,795,3
+1160,7.12,"Shadows in Kyoto",2561,5.921,24.95,449,3
+1161,6.56,"Monopoly Gamer",2562,5.921,24.99,1152,3
+1162,6.58,"Maharani",2563,5.921,54.99,795,3
+1163,6.46,"Goblins, Inc.",2565,5.921,49.95,980,3
+1164,6.49,"Star Trek Deck Building Game: The Next Generation",2566,5.921,39.99,1110,3
+1165,7.03,"Bring Your Own Book",2568,5.92,14.99,497,3
+1166,6.49,"Luchador! Mexican Wrestling Dice",2586,5.916,39.95,981,3
+1167,6.95,"Burger Up",2592,5.915,29.95,590,3
+1168,6.36,"Bison: Thunder on the Prairie",2597,5.915,19.99,1222,3
+1169,6.77,"First Orchard",2602,5.914,27.54,618,3
+1170,6.27,"Risk: Godstorm",2605,5.914,49.99,2293,3
+1171,7.12,"Survive: Space Attack!",2606,5.914,49.99,430,3
+1172,6.65,"Mutant Meeples",2609,5.913,59.99,722,3
+1173,6.86,"Raxxon",2612,5.913,39.95,554,3
+1174,6.57,"Bomb Squad",2617,5.912,39.99,745,3
+1175,7.25,"Quartermaster General: Victory or Death – The Peloponnesian War",2620,5.911,59.99,386,3
+1176,6.9,"Indulgence",2621,5.91,19.95,508,3
+1177,6.65,"Mythos",2622,5.91,8.95,769,3
+1178,6.48,"Magical Athlete",2624,5.909,24.99,957,3
+1179,8.04,"Battle Above the Clouds",2628,5.908,83,243,3
+1180,6.79,"Laser Chess",2629,5.908,44.99,634,3
+1181,6.83,"Shadows: Amsterdam",2631,5.908,29.99,610,3
+1182,6.94,"Starfighter",2633,5.907,29.99,511,3
+1183,6.53,"Article 27: The UN Security Council Game",2634,5.907,49.99,817,3
+1184,6.2,"Struggle for Catan",2635,5.907,13,2043,3
+1185,6.18,"Illuminati",2639,5.906,34.95,2502,3
+1186,6.31,"Cadwallon: City of Thieves",2640,5.906,59.95,1548,3
+1187,6.13,"Tally Ho!",2642,5.905,19.95,2457,3
+1188,6.09,"Family Business",2643,5.905,14.99,3734,3
+1189,6.47,"Cartagena 2. The Pirate's Nest",2667,5.901,29.95,872,3
+1190,6.52,"Munchkin Apocalypse",2670,5.901,24.95,1119,3
+1191,6.61,"Rory's Story Cubes: Voyages",2671,5.901,9.99,751,3
+1192,6.41,"Batavia",2673,5.901,49.9,1073,3
+1193,6.73,"Meeple War",2680,5.899,39.99,630,3
+1194,6.62,"Aeroplanes: Aviation Ascendant",2681,5.899,49.99,700,3
+1195,6.2,"Pirate Fluxx",2693,5.897,16,2214,3
+1196,6.57,"Clubs",2694,5.897,13.99,752,3
+1197,6.57,"Traditional Card Games",2696,5.896,9.99,766,3
+1198,6.88,"Hegemonic",2699,5.895,79.99,524,3
+1199,6.26,"Bugs in the Kitchen",2705,5.893,29.99,1398,3
+1200,6.65,"PIX",2719,5.89,34.99,645,3
+1201,6.28,"Munchkin Booty",2724,5.89,24.95,1822,3
+1202,6.12,"Star Munchkin",2729,5.889,24.99,4276,3
+1203,6.56,"Stellar Conflict",2730,5.888,14.99,701,3
+1204,6.54,"13 Minutes: The Cuban Missile Crisis",2731,5.888,10,737,3
+1205,6.32,"The Stars Are Right",2734,5.888,27.99,1271,3
+1206,7.24,"A Tale of Pirates",2741,5.887,50.07,381,3
+1207,6.39,"Mint Delivery",2747,5.885,13.97,1063,3
+1208,6.5,"Axis & Allies Miniatures",2750,5.885,16.99,1070,3
+1209,6.57,"10 Minute Heist: The Wizard's Tower",2752,5.885,20,728,3
+1210,6.93,"AT-43 Initiation Set: Operation Damocles",2755,5.885,80,535,3
+1211,7.43,"ICECOOL2",2756,5.884,29.99,319,3
+1212,6.89,"Risk: Game of Thrones",2758,5.884,74.99,796,3
+1213,7.07,"Escape from 100 Million B.C.",2759,5.884,59.99,437,3
+1214,6.89,"Hail Hydra",2766,5.883,29.99,532,3
+1215,7.15,"Empires of the Middle Ages",2767,5.883,100,405,3
+1216,6.34,"Lascaux",2768,5.882,30,1019,3
+1217,7.1,"Ticket to Ride: First Journey (Europe)",2772,5.881,34.99,414,3
+1218,6.31,"Dungeoneer: Vault of the Fiends",2774,5.881,19.95,1195,3
+1219,6.31,"Times Square",2777,5.881,24.99,1123,3
+1220,6.6,"Sultaniya",2781,5.88,49.99,671,3
+1221,6.88,"Lunar Rails",2783,5.879,38,501,3
+1222,6.5,"Penny Arcade: The Game – Gamers vs. Evil",2784,5.879,44.99,865,3
+1223,6.07,"Monty Python Fluxx",2789,5.878,19.99,4369,3
+1224,6.42,"Road Kill Rally",2790,5.878,59.99,906,3
+1225,6.86,"Super Fantasy: Ugly Snouts Assault",2792,5.878,59.9,510,3
+1226,6.62,"Smarty Party!",2796,5.877,24.99,637,3
+1227,6.95,"Fleet Wharfside",2803,5.877,17.99,435,3
+1228,6.4,"Temporum",2806,5.876,49.99,923,3
+1229,7.05,"Vs System 2PCG: The Marvel Battles",2808,5.876,49.99,475,3
+1230,6.58,"Sumeria",2810,5.876,45,690,3
+1231,6.24,"Alchemist",2812,5.875,35,1300,3
+1232,6.92,"Australian Rails",2813,5.875,38,486,3
+1233,6.24,"Unspeakable Words",2817,5.875,19.99,1360,3
+1234,6.51,"Zombie State: Diplomacy of the Dead",2818,5.875,49.99,757,3
+1235,6.11,"Dungeoneer: Tomb of the Lich Lord",2824,5.874,19.95,2411,3
+1236,6.2,"Caribbean",2827,5.874,27.99,1448,3
+1237,6.26,"Igloo Pop",2828,5.874,32.95,1173,3
+1238,6.45,"Unstable Unicorns",2831,5.872,20,1535,3
+1239,6.36,"10' to Kill",2834,5.872,25,991,3
+1240,7.39,"Escape Room In A Box: The Werewolf Experiment",2836,5.871,29.99,310,3
+1241,6.65,"Mhing",2845,5.869,18.99,632,3
+1242,6.44,"Alhambra: The Card Game",2846,5.869,29.95,839,3
+1243,7.23,"Martian Rails",2850,5.869,42,349,3
+1244,7.03,"Attack on Titan: Deck-Building Game",2856,5.867,40,460,3
+1245,7.21,"The Red Dragon Inn: Battle for Greyport",2859,5.867,44.95,407,3
+1246,6.58,"Drakon (fourth edition)",2867,5.865,34.95,717,3
+1247,6.41,"Pecking Order",2869,5.865,28,850,3
+1248,6.52,"Versailles",2874,5.864,54.99,695,3
+1249,6.65,"B-Sieged: Sons of the Abyss",2876,5.864,99.99,786,3
+1250,6.5,"Last Friday",2880,5.863,43.72,863,3
+1251,6.71,"Outside the Scope of BGG",2883,5.862,24.99,538,3
+1252,6.18,"Candamir: The First Settlers",2886,5.862,49,1719,3
+1253,6.74,"Tarot",2892,5.861,14.99,589,3
+1254,6.8,"But Wait, There's More!",2899,5.859,24.99,479,3
+1255,6.4,"Antidote",2905,5.859,18,934,3
+1256,6.03,"Cards Against Humanity",2907,5.858,25,19299,3
+1257,7.37,"GoodCritters",2908,5.858,24.99,309,3
+1258,6.12,"Cthulhu Fluxx",2909,5.858,16,2509,3
+1259,6.49,"Feudality",2912,5.857,59.99,708,3
+1260,6.18,"Rage",2914,5.857,17,1524,3
+1261,6.81,"Locomotive Werks",2916,5.857,49.99,468,3
+1262,6.19,"One Night Revolution",2923,5.856,24.99,1395,3
+1263,6.12,"WarCraft: The Board Game",2925,5.856,49.95,2429,3
+1264,6.58,"Der schwarze Pirat",2926,5.855,35,623,3
+1265,6.93,"Dark Gothic",2932,5.854,39.95,443,3
+1266,6.1,"Roll For It!",2933,5.853,14.99,2146,3
+1267,6.89,"Quarriors! Light vs. Dark",2934,5.853,34.99,437,3
+1268,6.27,"Cardcassonne",2937,5.852,29.99,1085,3
+1269,6.76,"In the Name of Odin",2941,5.852,49.99,519,3
+1270,6.33,"Abandon Ship",2942,5.851,34.99,935,3
+1271,7.05,"Magic: The Gathering – Arena of the Planeswalkers: Shadows over Innistrad",2945,5.851,29.99,421,3
+1272,7.08,"Fool's Gold",2946,5.851,49.99,363,3
+1273,6.59,"Arena: For the Gods!",2947,5.851,39.99,605,3
+1274,6.66,"Masters of Venice",2948,5.851,34.99,547,3
+1275,7.24,"Wings of War: WW2 Deluxe set",2949,5.851,69.95,337,3
+1276,6.52,"Electronic Catch Phrase",2953,5.85,21.99,671,3
+1277,7.11,"Elfenroads",2954,5.85,69.99,357,3
+1278,6.46,"Legendary Inventors",2962,5.849,39.99,787,3
+1279,7.32,"Ninety-Nine",2963,5.849,9.99,294,3
+1280,6.88,"Resident Evil Deck Building Game: Alliance",2964,5.849,29.99,539,3
+1281,6.59,"Salmon Run",2965,5.849,39.99,597,3
+1282,6.36,"Marrying Mr. Darcy",2967,5.848,29.99,1011,3
+1283,6.73,"Haleakala",2970,5.848,34.99,509,3
+1284,6.28,"Hotel Samoa",2973,5.848,39.99,1017,3
+1285,6.18,"La Strada",2974,5.847,36,1293,3
+1286,6.7,"Star Trek Deck Building Game: The Original Series",2976,5.847,34.99,537,3
+1287,6.3,"Pizza Box Football",2979,5.847,24.95,967,3
+1288,6.16,"World of Warcraft: The Adventure Game",2982,5.847,39.95,1823,3
+1289,6.61,"Okey Dokey",2985,5.846,14.95,575,3
+1290,7.34,"Pax Baltica",2998,5.843,55,309,3
+1291,6.76,"Star Trek Deck Building Game: The Next Generation – Next Phase",3001,5.843,39.99,515,3
+1292,6.48,"Guilds of Cadwallon",3004,5.843,24.99,711,3
+1293,6.64,"Icehouse",3005,5.842,9,601,3
+1294,7.39,"High Treason: The Trial of Louis Riel",3006,5.842,25.99,268,3
+1295,6.21,"Going, Going, GONE!",3007,5.841,49.99,1156,3
+1296,6.01,"Zombie Fluxx",3015,5.84,16,5657,3
+1297,6.91,"Russian Rails",3016,5.84,38,406,3
+1298,7.39,"No Retreat! The North African Front",3017,5.84,65,280,3
+1299,6.36,"Parthenon: Rise of the Aegean",3019,5.839,50,853,3
+1300,6.93,"Viktory II",3021,5.839,59.95,424,3
+1301,6.73,"Spike",3029,5.837,49.99,483,3
+1302,6.37,"Dawn Under",3039,5.836,44.99,813,3
+1303,6.27,"Martinique",3040,5.836,29.99,999,3
+1304,6.03,"Panic Station",3042,5.835,29.95,2813,3
+1305,6.77,"Catan Histories: Merchants of Europe",3047,5.834,54.99,466,3
+1306,6.59,"Sapiens",3048,5.834,39.99,562,3
+1307,6.32,"Cash-a-Catch",3052,5.834,39.99,897,3
+1308,6.33,"Utopia",3064,5.832,59.99,845,3
+1309,6.04,"Quiddler",3073,5.831,12.99,2747,3
+1310,7.1,"The Ruhr: A Story of Coal Trade",3077,5.831,59.99,317,3
+1311,6.7,"Scarabya",3078,5.83,32.99,471,3
+1312,6.82,"Monarch",3089,5.829,44.99,466,3
+1313,6.27,"Elevenses",3099,5.826,15,994,3
+1314,6.92,"Infamy",3104,5.825,10.68,387,3
+1315,6.31,"Dragonland",3108,5.824,37.95,869,3
+1316,6.91,"Pacific Victory",3111,5.824,62.98,385,3
+1317,7.79,"Sakura Arms",3113,5.824,29.99,254,3
+1318,7.31,"Captive",3114,5.824,22.99,265,3
+1319,6.39,"TSCHAK!",3116,5.823,24.99,710,3
+1320,7.76,"Enemy Coast Ahead: The Dambuster Raid",3119,5.823,55,227,3
+1321,6.64,"Warrior Knights",3128,5.821,59.95,543,3
+1322,7.04,"Carthago: Merchants & Guilds",3130,5.821,28.95,326,3
+1323,6.9,"Musée",3131,5.821,26.99,362,3
+1324,6.65,"Three-Dragon Ante: Emperor's Gambit",3140,5.819,14.99,494,3
+1325,6.72,"Golem Arcana",3141,5.819,79.99,562,3
+1326,6.3,"Portal: The Uncooperative Cake Acquisition Game",3145,5.819,49.99,1006,3
+1327,6.15,"The Witches: A Discworld Game",3152,5.818,49.99,1523,3
+1328,6.93,"Assault of the Giants",3155,5.817,79.99,394,3
+1329,6.85,"The Cards of Cthulhu",3156,5.817,39.65,428,3
+1330,6.67,"Dreamwell",3157,5.817,29.99,502,3
+1331,6.84,"Volcano",3160,5.817,9,385,3
+1332,7.08,"Saltlands",3163,5.816,49.95,388,3
+1333,7.37,"Deadzone",3167,5.816,79.95,308,3
+1334,7.2,"Grand Prix",3169,5.816,69,289,3
+1335,7.27,"Catan: Ancient Egypt",3173,5.815,75,296,3
+1336,7.07,"The Lord of the Rings: The Return of the King Deck-Building Game",3178,5.814,39.99,349,3
+1337,6.33,"Rick and Morty: Total Rickall Card Game",3185,5.813,15,1049,3
+1338,6.23,"Principato",3190,5.813,39.99,943,3
+1339,6.56,"Rondo",3191,5.813,40.99,531,3
+1340,7.44,"Homeworlds",3193,5.813,9,249,3
+1341,7.35,"Hokkaido",3194,5.812,25,251,3
+1342,7.15,"Dark Souls: The Card Game",3195,5.812,40,377,3
+1343,7.04,"Venetia",3196,5.812,64.99,340,3
+1344,6.31,"Castellan",3197,5.812,34.95,827,3
+1345,6.46,"Bubblee Pop",3198,5.812,34.99,646,3
+1346,6.65,"Starship Merchants",3201,5.812,34.99,450,3
+1347,5.96,"Sequence",3205,5.812,24.99,5850,3
+1348,6.64,"New York",3209,5.811,54.95,473,3
+1349,6.14,"The Gardens of the Alhambra",3220,5.81,39.99,1230,3
+1350,6.19,"Runebound (First Edition)",3230,5.808,49.99,1489,3
+1351,6.48,"Eminent Domain: Battlecruisers",3236,5.807,24.95,566,3
+1352,7.46,"History of the World",3243,5.806,22.25,239,3
+1353,6.69,"Delve",3247,5.805,39.99,481,3
+1354,6.77,"Settlers of Catan: Gallery Edition",3248,5.805,29.99,620,3
+1355,6.68,"Hocus",3249,5.805,18,469,3
+1356,7.95,"EXCEED: Red Horizon – Reese & Heidi vs. Vincent & Nehtali",3254,5.805,25,209,3
+1357,8.62,"EXCEED Fighting System",3255,5.805,25,160,3
+1358,6.16,"Wizard's Quest",3258,5.804,39.99,1325,3
+1359,6.73,"Reverse Charades",3259,5.804,23.99,418,3
+1360,6.6,"Loot Island",3268,5.803,29.99,487,3
+1361,6.73,"Bretagne",3271,5.803,69.9,420,3
+1362,6.43,"Spectaculum",3273,5.802,29.99,571,3
+1363,6.85,"Expedition: Famous Explorers",3280,5.801,49.99,364,3
+1364,6.17,"Zombies!!! 4: The End...",3283,5.801,24.99,1372,3
+1365,6.42,"The Swarm",3285,5.801,49.99,586,3
+1366,6.22,"Vineta",3294,5.8,29.99,971,3
+1367,6.3,"Game of Thrones: The Card Game",3298,5.8,29.95,831,3
+1368,6.51,"My Happy Farm",3299,5.8,30,569,3
+1369,7.05,"Jarl: The Vikings Tile-Laying Game",3301,5.799,39.99,313,3
+1370,6.11,"Tutankhamen",3302,5.799,16.99,1245,3
+1371,7.14,"Firefly Adventures: Brigands and Browncoats",3306,5.799,49.99,327,3
+1372,6.67,"Warhammer Age of Sigmar",3308,5.798,125,495,3
+1373,6.11,"Things...",3310,5.798,29.99,1709,3
+1374,6.76,"Birds of a Feather",3312,5.798,20,410,3
+1375,7.93,"Dual Powers: Revolution 1917",3314,5.798,39.95,187,3
+1376,7.39,"Haven",3315,5.798,24.4,242,3
+1377,6.46,"Dingo's Dreams",3316,5.798,19.99,584,3
+1378,8.07,"Next War: Korea",3324,5.796,85,196,3
+1379,7.04,"Starship Samurai",3327,5.796,59.97,332,3
+1380,6.81,"The Last Spike",3328,5.796,39.99,386,3
+1381,6.59,"Rattus Cartus",3331,5.795,36.99,476,3
+1382,6.53,"World of Yo-Ho",3332,5.795,59.99,489,3
+1383,6.68,"Armageddon",3334,5.794,59.9,427,3
+1384,6.08,"Sitting Ducks Gallery",3338,5.794,14.99,1542,3
+1385,6.4,"Crows",3340,5.794,29.99,622,3
+1386,7.25,"Guildhall Fantasy: Coalition",3341,5.793,27.99,261,3
+1387,6.22,"Klunker",3345,5.793,11.95,850,3
+1388,6.37,"Eruption",3349,5.793,44.99,671,3
+1389,6.94,"Farlight",3352,5.792,30,338,3
+1390,6.21,"The Good, the Bad, and the Munchkin",3354,5.792,24.95,1197,3
+1391,6.73,"Burke's Gambit",3355,5.792,19.99,494,3
+1392,6.89,"Attack on Titan: The Last Stand",3356,5.791,35,388,3
+1393,6.57,"Bremerhaven",3361,5.791,54.99,488,3
+1394,6.25,"Hoopla",3362,5.791,14.99,896,3
+1395,6.38,"Orchard",3367,5.79,44.99,704,3
+1396,6.27,"HMS Dolores",3371,5.79,7.46,781,3
+1397,7.04,"GOSU 2: Tactics",3380,5.789,24.99,315,3
+1398,6.08,"Unexploded Cow",3381,5.789,24.99,1607,3
+1399,6.32,"Stop Thief",3386,5.788,299.99,790,3
+1400,6.56,"25 Words or Less",3387,5.788,19.95,502,3
+1401,6.44,"Dead Drop",3390,5.788,19.99,551,3
+1402,6.22,"Straw",3400,5.787,11.99,918,3
+1403,6.66,"WWE Superstar Showdown",3402,5.787,49.99,439,3
+1404,6,"Risk (Revised Edition)",3418,5.786,38.99,2599,3
+1405,6.35,"Hungry",3424,5.785,19.99,635,3
+1406,6.1,"Snorta!",3425,5.785,19.99,1368,3
+1407,6.35,"Batt'l Kha'os",3427,5.784,24.99,660,3
+1408,6.54,"Uncharted: The Board Game",3432,5.783,29.99,509,3
+1409,6.92,"Pocket Battles: Macedonians vs. Persians",3436,5.782,14.99,333,3
+1410,6.34,"Canasta Caliente",3447,5.781,17.99,736,3
+1411,6.65,"Crossfire",3452,5.78,14.95,414,3
+1412,6.54,"BANG! The Duel",3454,5.78,22.9,554,3
+1413,7.52,"Untold: Adventures Await",3456,5.78,35,226,3
+1414,6.53,"Pit Crew",3461,5.78,24.95,466,3
+1415,6.02,"Munchkin Bites!",3472,5.778,24.99,2713,3
+1416,7.37,"Council of Blackthorn",3474,5.777,49.99,298,3
+1417,7.73,"Hoplite",3483,5.776,75,180,3
+1418,6.2,"Knit Wit",3484,5.776,34.99,852,3
+1419,6.97,"Penny Arcade: The Game – Rumble in R'lyeh",3494,5.775,44.99,314,3
+1420,6.62,"Leaders of Euphoria: Choose a Better Oppressor",3495,5.775,202,413,3
+1421,7.43,"Tanks: Panther vs Sherman",3502,5.774,24.99,274,3
+1422,8.24,"Battlestations: Second Edition",3505,5.774,99.95,186,3
+1423,6.42,"Axis & Allies 1941",3507,5.774,29.99,776,3
+1424,6.68,"Trollhalla",3512,5.773,49.99,391,3
+1425,7.12,"China Rails",3513,5.773,40,263,3
+1426,7.1,"Elfenroads",3516,5.773,69.99,280,3
+1427,6.58,"Spellcaster",3519,5.772,19.99,429,3
+1428,6.26,"Sole Mio!",3523,5.772,11.95,699,3
+1429,8.22,"D-Day at Peleliu",3528,5.772,60,168,3
+1430,5.96,"Monsters Menace America",3531,5.771,19.99,2222,3
+1431,6.38,"The Dutch Golden Age",3533,5.771,45,561,3
+1432,6.23,"Monkeys on the Moon",3540,5.77,59.99,736,3
+1433,7.7,"Championship Formula Racing",3545,5.769,60,186,3
+1434,6.04,"Pirates of the Spanish Main",3550,5.769,3.99,2664,3
+1435,6.32,"Cluzzle",3553,5.769,29.99,624,3
+1436,6.1,"Quicksand",3558,5.768,19.99,1047,3
+1437,6.56,"Dairyman",3569,5.767,19.95,447,3
+1438,6.19,"Martian Fluxx",3575,5.766,15.99,878,3
+1439,7.2,"Subatomic: An Atom Building Game",3580,5.766,34.99,263,3
+1440,6.42,"Matcha",3584,5.766,15,509,3
+1441,6.31,"Oz Fluxx",3588,5.765,15.99,734,3
+1442,6.6,"Water Lily",3595,5.765,29.99,390,3
+1443,6.14,"Quarantine",3702,5.754,29.99,855,3
+1444,6.13,"Raise Your Goblets",3704,5.753,49.99,991,3
+1445,6.01,"Aquarius",3707,5.753,14.99,1568,3
+1446,5.95,"Dungeon!",3708,5.753,24.99,3273,3
+1447,6.33,"Fidelitas",3710,5.753,20,561,3
+1448,6.43,"New Salem (first edition)",3711,5.753,34.99,481,3
+1449,5.92,"Munchkin",3713,5.753,24.99,35736,3
+1450,6.33,"Antarctica",3715,5.752,50,537,3
+1451,6.44,"Orcs Orcs Orcs",3720,5.752,49.99,491,3
+1452,6.55,"SHH",3726,5.752,6.99,390,3
+1453,6,"The Hobbit",3733,5.751,34.95,1524,3
+1454,7.37,"Shadows over Normandie",3735,5.751,69.99,233,3
+1455,7,"The Hobbit: An Unexpected Journey Deck-Building Game",3739,5.75,39.99,300,3
+1456,6.72,"Apocalypse Chaos",3751,5.75,49.99,339,3
+1457,7.69,"SEAL Team Flix",3756,5.749,59.99,173,3
+1458,6.51,"Richard Scarry's Busytown: Eye found it! Game",3758,5.749,24.99,430,3
+1459,6.54,"New Haven",3765,5.748,36.99,404,3
+1460,6.48,"Urbania",3766,5.748,34.99,429,3
+1461,6.91,"Magnastorm",3771,5.748,69.95,292,3
+1462,8.22,"Tide of Iron: Next Wave",3777,5.747,86.08,131,3
+1463,7.21,"Carcassonne: Safari",3783,5.745,34.99,221,3
+1464,6.25,"Titan Race",3787,5.745,30,633,3
+1465,6.89,"Mythic Battles",3795,5.744,49.99,289,3
+1466,6.28,"Montego Bay",3798,5.744,49.95,607,3
+1467,7.3,"Gearworks",3799,5.744,34.99,235,3
+1468,6.8,"Latice",3804,5.743,59.99,324,3
+1469,6.42,"Genesis",3807,5.743,34.99,447,3
+1470,6.38,"Bring Out Yer Dead",3810,5.743,49.99,520,3
+1471,6.44,"HUE",3818,5.742,6.99,420,3
+1472,6.39,"Fairy Tile",3822,5.741,29.99,516,3
+1473,5.97,"221B Baker Street: The Master Detective Game",3823,5.741,24.39,2231,3
+1474,6.47,"Quilt Show",3828,5.741,34.99,399,3
+1475,6.23,"Costa Rica",3832,5.74,35,608,3
+1476,6.4,"Vampire: Prince of the City",3836,5.74,39.99,600,3
+1477,7.08,"Don't Turn Your Back",3837,5.74,40,233,3
+1478,6.21,"Nanuk",3840,5.739,27.99,634,3
+1479,6.13,"Saboteur: The Duel",3842,5.739,15,874,3
+1480,6.56,"Pie Town",3845,5.739,45,366,3
+1481,6.11,"Password",3854,5.738,14.99,862,3
+1482,6.16,"Ideology: The War of Ideas",3856,5.738,49.99,872,3
+1483,6.4,"Kharnage",3858,5.737,14.88,498,3
+1484,6.89,"Krosmaster: Quest",3866,5.737,99.99,319,3
+1485,5.96,"Lord of the Fries",3875,5.735,25,1584,3
+1486,7.84,"The Legend of Korra: Pro-Bending Arena",3876,5.735,49.99,176,3
+1487,6.68,"Cartagena",3880,5.734,30,321,3
+1488,6.38,"Codenames: Marvel",3901,5.733,24.95,493,3
+1489,6.61,"Scripts and Scribes: The Dice Game",3907,5.732,26.95,328,3
+1490,6.45,"Bomb Squad Academy",3922,5.731,19.99,415,3
+1491,7.17,"Scorpius Freighter",3923,5.73,46.11,206,3
+1492,5.94,"Blink",3929,5.73,9.99,1703,3
+1493,6.62,"Kanzume Goddess",3934,5.73,39.99,374,3
+1494,6.18,"4 Gods",3940,5.729,49.99,674,3
+1495,6.39,"Micro Robots",3945,5.729,19.99,462,3
+1496,6.26,"Sherlock",3947,5.729,10.99,543,3
+1497,6.45,"Lazer Ryderz",3948,5.729,39.95,440,3
+1498,5.93,"Creationary",3951,5.728,34.99,1544,3
+1499,7.08,"Demon Worker",3952,5.728,28,218,3
+1500,6.16,"Cranium WOW",3957,5.728,34.99,860,3
+1501,6.95,"Archmage",3961,5.728,50,281,3
+1502,6.74,"Octi",3964,5.727,29.99,310,3
+1503,6.72,"Looterz",3969,5.727,24.99,343,3
+1504,7.21,"Fire of Eidolon",3972,5.727,34.99,223,3
+1505,6.56,"Neptun",3973,5.727,59.9,349,3
+1506,6.41,"Cavemen: The Quest for Fire",3978,5.727,24.95,428,3
+1507,6.02,"Risk: Star Wars – The Clone Wars Edition",3987,5.726,24.99,1432,3
+1508,6.65,"King Chocolate",3989,5.725,49,297,3
+1509,6.17,"Techno Witches",3992,5.725,24.99,622,3
+1510,7.4,"Bloody April, 1917: Air War Over Arras, France",3996,5.725,55,186,3
+1511,6.05,"Ninja Versus Ninja",3997,5.725,27.99,919,3
+1512,7.56,"Bomber Command",3999,5.725,66.99,166,3
+1513,6.59,"Orongo",4003,5.724,39.99,307,3
+1514,6.64,"The Great Khan Game",4011,5.724,12.95,359,3
+1515,6.37,"Super Scrabble",4016,5.723,36.99,527,3
+1516,5.92,"Aye, Dark Overlord! The Red Box",4020,5.723,24.95,2403,3
+1517,6.45,"Town Center",4021,5.723,55,386,3
+1518,6.84,"Epigo",4022,5.723,30,262,3
+1519,6.33,"Spot it Jr.! Animals",4024,5.723,9.99,489,3
+1520,6.46,"Trump, Tricks, Game!",4026,5.723,19.99,369,3
+1521,7.22,"Resident Evil Deck Building Game: Mercenaries",4032,5.722,34.99,238,3
+1522,6.58,"Test of Fire: Bull Run 1861",4034,5.722,29.99,317,3
+1523,6.46,"BANG!: The Walking Dead",4041,5.721,24.99,433,3
+1524,6.33,"Codinca",4042,5.721,19.95,487,3
+1525,6.52,"Around the World in 80 Days",4044,5.721,39.99,364,3
+1526,6.27,"Six",4053,5.721,24.99,541,3
+1527,6.54,"Max",4063,5.72,15.99,362,3
+1528,6.76,"Italia",4070,5.719,59.99,285,3
+1529,6.76,"Wizards of the Wild",4071,5.719,24.95,263,3
+1530,6.14,"Little Devils",4088,5.718,14.99,661,3
+1531,6.04,"Robot Turtles",4090,5.717,24.99,907,3
+1532,6.04,"Dead Panic",4092,5.717,39.99,926,3
+1533,6.92,"Ophir",4100,5.716,58.99,243,3
+1534,6.23,"Broom Service: The Card Game",4103,5.716,14.99,557,3
+1535,6.58,"City Hall",4114,5.715,59.99,315,3
+1536,6.01,"Fifth Avenue",4122,5.714,37.99,905,3
+1537,6.85,"Pikoko",4124,5.714,26.34,245,3
+1538,6.28,"Warehouse 51",4128,5.714,24.99,480,3
+1539,6.29,"Dungeoneer: Dragons of the Forsaken Desert",4130,5.714,19.95,503,3
+1540,6.48,"Ninja Taisen",4131,5.714,14.99,346,3
+1541,8.08,"The Grizzled: Armistice Edition",4133,5.713,39.94,119,3
+1542,7.03,"Global Mogul",4135,5.713,54.99,203,3
+1543,6.06,"Discover: Lands Unknown",4136,5.713,59.95,991,3
+1544,6.19,"Shazamm!",4143,5.712,24.99,576,3
+1545,6.12,"Quixo",4146,5.712,34.99,666,3
+1546,6.99,"Richard the Lionheart",4149,5.712,69.99,219,3
+1547,7.56,"Bloc by Bloc: The Insurrection Game",4153,5.712,60,177,3
+1548,6.87,"NHL Power Play Team-Building Card Game",4158,5.711,39.99,250,3
+1549,6.46,"Code of Nine",4159,5.711,39.99,365,3
+1550,6.19,"Callisto: The Game",4162,5.711,29.99,589,3
+1551,6.18,"Gangster",4165,5.71,45,558,3
+1552,6.1,"Rumble in the House",4172,5.71,18.77,715,3
+1553,8.09,"Shadowrun Crossfire: Prime Runner Edition",4176,5.71,59.99,123,3
+1554,6.64,"Kachina",4177,5.71,29.99,341,3
+1555,6.35,"Monster Factory",4178,5.71,29.99,430,3
+1556,6.85,"Dungeon Mayhem",4179,5.709,14.99,298,3
+1557,6.17,"Owner's Choice",4180,5.709,30,588,3
+1558,6.18,"The Secret of Monte Cristo",4181,5.709,54.99,573,3
+1559,6.4,"Mmm!",4184,5.709,23.99,388,3
+1560,6.2,"Duck, Duck, Bruce",4188,5.709,9.99,531,3
+1561,6.44,"Rise to Power",4192,5.708,25,385,3
+1562,5.92,"Five Crowns",4198,5.708,12.99,1857,3
+1563,6.01,"Superfight",4205,5.707,35,1623,3
+1564,6.38,"Die Siedler von Catan: Junior",4206,5.707,30,410,3
+1565,6.82,"Warlords of Europe",4217,5.706,79.95,277,3
+1566,6.76,"Gem Rush",4225,5.706,26.99,258,3
+1567,6.12,"Travel Blog",4228,5.705,39.99,629,3
+1568,6.24,"Crazy Circus",4229,5.705,19.99,470,3
+1569,6.34,"Dungeon Twister: The Card Game",4231,5.705,29.99,425,3
+1570,5.9,"Munchkin Quest",4235,5.705,59.95,3383,3
+1571,6.67,"Kairo",4259,5.703,28.13,270,3
+1572,6.37,"Zoowaboo",4266,5.702,44.95,382,3
+1573,6.32,"Harry's Grand Slam Baseball Game",4269,5.701,24.99,401,3
+1574,6.13,"Such a Thing?",4273,5.701,19.99,620,3
+1575,7.36,"Mega Man Pixel Tactics: Mega Man Blue",4276,5.701,19.99,161,3
+1576,6.04,"FlowerFall",4280,5.7,14.99,770,3
+1577,6.7,"Corto",4284,5.7,49.99,268,3
+1578,6.8,"Liguria",4288,5.7,59.9,233,3
+1579,6.18,"Shadows in the Forest",4296,5.699,24.99,557,3
+1580,5.92,"Lord of the Rings: The Duel",4302,5.699,24.99,1247,3
+1581,6.47,"The Little Orchard",4313,5.698,24.99,323,3
+1582,6,"GUBS: A Game of Wit and Luck",4319,5.697,11.99,1176,3
+1583,7.05,"Brass Empire",4320,5.697,32.93,213,3
+1584,5.94,"Guesstures",4323,5.697,32.99,1287,3
+1585,6.02,"duck! duck! Go!",4337,5.695,24.99,769,3
+1586,6.33,"BUS",4339,5.695,6.99,383,3
+1587,8.64,"The Battle of Fontenoy: 11 May, 1745",4343,5.695,80,95,3
+1588,6.15,"Station Master",4344,5.695,20,550,3
+1589,6.37,"Easter Island",4346,5.695,24.99,367,3
+1590,6.14,"Heads of State",4348,5.694,70,574,3
+1591,7.34,"Maiden's Quest",4353,5.694,19.99,183,3
+1592,6.41,"Dice Heist",4360,5.693,19.99,349,3
+1593,7.91,"Warhammer Quest: Shadows Over Hammerhal",4365,5.693,149.99,149,3
+1594,6.52,"Monster Crunch! The Breakfast Battle Game",4371,5.693,29.99,310,3
+1595,6.37,"Greedy Greedy Goblins",4380,5.692,39.99,388,3
+1596,7.47,"Batman: The Animated Series – Gotham City Under Siege",4384,5.692,49.99,169,3
+1597,6.26,"Robotory",4387,5.692,12.99,425,3
+1598,6.73,"Warband: Against the Darkness",4389,5.691,49.99,225,3
+1599,6.67,"Hot Rod Creeps",4393,5.691,44.99,257,3
+1600,7.05,"The Banishing",4401,5.69,11.66,189,3
+1601,6.21,"On the Dot",4406,5.69,14.99,487,3
+1602,6.15,"Vikings on Board",4411,5.689,44.99,553,3
+1603,6.04,"Bridge Troll",4420,5.689,24.99,709,3
+1604,5.96,"Army of Frogs",4429,5.689,34.99,860,3
+1605,6.86,"Spearpoint 1943",4430,5.689,29.95,228,3
+1606,6.12,"Nobody but Us Chickens",4435,5.688,16.99,539,3
+1607,7.01,"Gettysburg: Badges of Courage",4436,5.688,71.98,202,3
+1608,7.18,"Dungeon Draft",4441,5.688,25.42,167,3
+1609,6.96,"Breakthrough: Cambrai",4457,5.686,40,183,3
+1610,6.83,"Hobbit Tales from the Green Dragon Inn",4460,5.686,29.99,238,3
+1611,6.84,"20th Century Limited",4464,5.686,44.99,210,3
+1612,6.37,"Johari",4465,5.686,34.99,349,3
+1613,6.36,"Da ist der Wurm drin",4467,5.686,39.99,352,3
+1614,6.87,"Kung Fu Zoo",4480,5.685,28.48,216,3
+1615,6.06,"Level 7 [Escape]",4485,5.685,59.99,796,3
+1616,6.34,"Locke & Key: The Game",4489,5.685,29.99,388,3
+1617,6.24,"Dark Seas",4492,5.684,15.22,431,3
+1618,6.84,"Patchwork Express",4493,5.684,24.99,191,3
+1619,6.49,"Hoot Owl Hoot!",4496,5.684,15.99,313,3
+1620,6.24,"Adventure Time Card Wars: Finn vs. Jake",4497,5.684,19.99,797,3
+1621,6.54,"Karesansui",4514,5.683,39.99,268,3
+1622,6.37,"Aztlán",4515,5.683,49.99,361,3
+1623,6.64,"Kansas Pacific",4516,5.683,49.1,226,3
+1624,7.74,"Resident Evil 2: The Board Game",4517,5.683,99.95,234,3
+1625,5.88,"Super Munchkin",4518,5.683,24.99,2440,3
+1626,6.5,"Sticky Chameleons",4533,5.682,14.99,282,3
+1627,5.89,"Munchkin Fu",4537,5.682,24.99,2163,3
+1628,6.08,"Don Quixote",4541,5.681,34.99,603,3
+1629,6.55,"Trickster: Champions of Time",4571,5.68,19.99,264,3
+1630,7.24,"Great War at Sea: Jutland",4577,5.679,64.99,150,3
+1631,6.97,"Ladder 29",4591,5.678,20,170,3
+1632,6.48,"Nyctophobia",4595,5.678,40,309,3
+1633,6.43,"Pingo Pingo",4598,5.678,34.99,317,3
+1634,6.68,"Villagers & Villains",4606,5.677,24.95,236,3
+1635,6.19,"Typo",4609,5.677,9.99,427,3
+1636,6.18,"Stay Away!",4615,5.677,19.9,593,3
+1637,6.37,"Nostra City",4621,5.677,39.99,369,3
+1638,6.16,"Wheedle",4628,5.676,9.99,496,3
+1639,7.06,"Piecepack",4639,5.675,29.95,163,3
+1640,6.23,"Ghost Chase",4640,5.675,39.99,405,3
+1641,6.8,"Nautilus Industries",4644,5.675,55,197,3
+1642,6.45,"Prolix",4645,5.675,24.99,272,3
+1643,6.22,"Titanium Wars",4668,5.674,39.99,411,3
+1644,6.49,"Holding On: The Troubled Life of Billy Kerr",4683,5.673,39.99,337,3
+1645,6.01,"Squint",4691,5.672,24.99,707,3
+1646,6.96,"Panzer Grenadier: Battle of the Bulge",4700,5.671,49.99,181,3
+1647,6.39,"GEM",4805,5.665,6.99,283,3
+1648,6.06,"Piña Pirata",4814,5.665,19.99,627,3
+1649,5.86,"Attack!",4827,5.664,29.99,1768,3
+1650,6.12,"Hula Hippos",4830,5.664,12,455,3
+1651,6.21,"Where's Bob's Hat?",4834,5.664,11.99,391,3
+1652,6.46,"Brutal Kingdom",4838,5.663,6.84,261,3
+1653,6.01,"Bacchus' Banquet",4844,5.663,20,616,3
+1654,6.36,"Battle Beyond Space",4853,5.663,49.99,286,3
+1655,6.42,"Dastardly Dirigibles",4857,5.663,19.95,320,3
+1656,6.66,"Abaddon",4875,5.662,79.99,220,3
+1657,7.06,"Journey: Wrath of Demons",4876,5.662,99.99,178,3
+1658,6.04,"Chariot Race",4878,5.662,29.99,577,3
+1659,5.99,"We Didn't Playtest This Either",4879,5.662,14.99,704,3
+1660,8.05,"Fallout: Wasteland Warfare",4883,5.661,57,133,3
+1661,6.72,"Extra! Extra!",4884,5.661,64.99,199,3
+1662,5.93,"Inn-Fighting",4896,5.661,14.99,995,3
+1663,7.56,"Empires in America (second edition)",4898,5.661,32.99,122,3
+1664,6.09,"Hoax (second edition)",4908,5.66,12.95,528,3
+1665,6.6,"Jurassic Park: Danger! Adventure Strategy Game",4911,5.66,24.99,269,3
+1666,7.1,"Deathwatch: Overkill",4912,5.66,165,171,3
+1667,6.3,"The Hobbit: An Unexpected Journey",4920,5.66,39.99,341,3
+1668,6.62,"Maze Racers",4921,5.66,39.99,245,3
+1669,6.82,"Expedition: The Roleplaying Card Game",4933,5.659,30,239,3
+1670,6.18,"Treasures & Traps",4945,5.659,12.95,459,3
+1671,6.78,"Hounded",4970,5.657,17.95,196,3
+1672,6.04,"Food Fight",4989,5.656,29.99,681,3
+1673,5.85,"Pass the Bomb",4994,5.656,24.99,1097,3
+1674,6.52,"Catan Junior",4997,5.656,30,254,3
+1675,6.39,"Jolly Roger: The Game of Piracy & Mutiny",5004,5.655,19.9,290,3
+1676,6.13,"Oshi",5014,5.655,24.99,459,3
+1677,6.36,"High Noon Saloon",5016,5.655,29.99,298,3
+1678,6.13,"Alba Longa",5023,5.654,59.95,398,3
+1679,6.53,"Rails of New England",5024,5.654,59.99,234,1
+1680,6.46,"The Goonies: Adventure Card Game",5030,5.654,34.99,260,4
+1681,6.77,"Empire Express",5031,5.654,29.99,177,4
+1682,6.84,"Fool!",5033,5.654,14.95,167,4
+1683,5.98,"Cypher",5039,5.654,11.99,620,4
+1684,5.83,"Zombies!!!",5054,5.653,29.99,13597,4
+1685,6.38,"Korrigans",5059,5.653,44.99,293,4
+1686,6.17,"City Council",5067,5.652,59.9,391,4
+1687,6,"Chez Goth",5068,5.652,19.99,649,4
+1688,6.82,"The Eye of Judgment",5069,5.652,49.99,182,4
+1689,6.92,"Level 7 [Invasion]",5081,5.652,89.99,154,4
+1690,6.21,"Hunting Party",5215,5.645,39.99,347,4
+1691,7.08,"Risk: Metal Gear Solid",5233,5.644,49.95,181,4
+1692,5.78,"Outburst!",5236,5.644,29.99,1547,4
+1693,7.46,"New Rules for Classic Games",5256,5.643,9.95,94,4
+1694,6.47,"Tales & Games: The Pied Piper",5258,5.643,24.99,220,4
+1695,6.67,"Planet Defenders",5260,5.643,45,177,4
+1696,6.18,"Ilium",5263,5.643,39.99,342,4
+1697,6.14,"We Didn't Playtest This: Legacies",5265,5.643,14.99,383,4
+1698,6.35,"Spectral Rails",5266,5.643,39.99,245,4
+1699,6.53,"Barcelona: The Rose of Fire",5271,5.643,59.99,229,4
+1700,6.36,"The Tea Dragon Society Card Game",5275,5.642,20,283,4
+1701,6.18,"Strada Romana",5285,5.642,49.95,347,4
+1702,6.28,"Dragon Farkle",5287,5.642,29.99,322,4
+1703,6.2,"Dungeon of Fortune",5288,5.642,19.99,379,4
+1704,7.01,"Triplanetary",5290,5.642,49.95,145,4
+1705,6.48,"The Legend of the Cherry Tree that Blossoms Every Ten Years",5527,5.631,24.49,218,4
+1706,5.9,"The Phantom Society",5544,5.63,39.99,633,4
+1707,5.97,"oddball Äeronauts",5546,5.63,17.99,589,4
+1708,6.08,"Cranium Turbo Edition",5549,5.63,29.99,417,4
+1709,6.85,"Word on the Street Junior",5551,5.63,19.99,142,4
+1710,6.26,"Cranium Scribblish",5567,5.629,19.99,294,4
+1711,6.45,"The Great City of Rome",5586,5.628,39.99,198,4
+1712,5.99,"Lucca Città",5595,5.628,15,443,4
+1713,6.07,"Apples to Apples Kids",5621,5.626,16.99,378,4
+1714,6.18,"Yamslam",5630,5.626,13.99,327,4
+1715,5.94,"World of Tanks: Rush",5649,5.625,34.99,650,4
+1716,6.22,"Adventure Time Card Wars: BMO vs. Lady Rainicorn",5651,5.625,10.79,360,4
+1717,6.13,"Battling Tops",5664,5.625,14.99,339,4
+1718,6.02,"True Colors",5671,5.624,19.99,443,4
+1719,6.95,"Who? What? Where?",5674,5.624,29.99,122,4
+1720,6.23,"Suspicion",5678,5.624,19.99,319,4
+1721,6.45,"Ancestree",5681,5.624,30,204,4
+1722,6.04,"Executive Decision",5682,5.624,29.99,391,4
+1723,6.86,"Wizards Wanted",5684,5.624,34.99,143,4
+1724,5.93,"Mars Attacks: The Dice Game",5691,5.624,19.99,619,4
+1725,6.11,"Murder of Crows",5704,5.623,12.95,391,4
+1726,8.12,"Manoeuvre: Distant Lands",5710,5.623,46,57,4
+1727,6.74,"They Come Unseen",5711,5.623,49.95,163,4
+1728,6.52,"Athens & Sparta",5716,5.623,89.56,186,4
+1729,6.65,"Bastion",5728,5.622,16.34,168,4
+1730,6.95,"Prospectus",5729,5.622,59.99,126,4
+1731,6.29,"5ive Straight",5754,5.622,26.99,268,4
+1732,6.32,"Magnifico",5764,5.621,59.95,247,4
+1733,6.33,"StarFall",5774,5.621,29.99,231,4
+1734,6.59,"Merchants & Marauders: Broadsides",5776,5.621,49.99,169,4
+1735,5.82,"Back to the Future: The Card Game",5779,5.621,19.99,1070,4
+1736,6.3,"Quoridor Kid",5787,5.621,24.99,228,4
+1737,6.03,"Heroica: Nathuz",5797,5.62,19.99,420,4
+1738,7.18,"Warmaster Ancients",5905,5.617,169.73,104,4
+1739,6.75,"Emergence Event",5915,5.616,60,151,4
+1740,6.2,"Crooks",5920,5.616,10.99,279,4
+1741,6.43,"Giza: The Great Pyramid",5921,5.616,34.99,183,4
+1742,7.06,"Cahoots",5927,5.616,14.99,109,4
+1743,6.34,"Behind the Throne",5928,5.616,19.9,245,4
+1744,5.8,"Oceania",5930,5.616,15,910,4
+1745,6.97,"Heavy Steam",5943,5.615,79.99,116,4
+1746,6.41,"Futuropia",5948,5.615,54.04,180,4
+1747,5.83,"That's a Question!",5954,5.615,13,708,4
+1748,7.24,"Critical Mass: Raijin vs Archon",5967,5.615,19.96,95,4
+1749,5.97,"Mythe",5968,5.615,30,415,4
+1750,6.09,"Cranium Cariboo",5980,5.614,21.99,342,4
+1751,6.64,"Stones of Fate",5989,5.614,24.99,197,4
+1752,6.31,"Bushido: Der Weg des Kriegers",5990,5.614,49.95,253,4
+1753,6.45,"Rome: City of Marble",6020,5.612,49.99,168,4
+1754,5.87,"Justinian",6035,5.612,44.99,581,4
+1755,6.94,"Fleets: The Pleiad Conflict",6043,5.612,39.72,119,4
+1756,6.55,"Salem",6049,5.611,45,172,4
+1757,7.05,"Clash of Giants: Civil War",6057,5.611,55,96,4
+1758,6.7,"Rock of the Marne",6068,5.611,40,127,4
+1759,6.24,"Dark Is The Night",6069,5.611,20,249,4
+1760,7.07,"Prowler's Passage",6074,5.611,35,104,4
+1761,7.35,"Planet of the Apes",6087,5.61,59.99,94,4
+1762,6.38,"Ninja All-Stars",6089,5.61,84.95,252,4
+1763,5.95,"Trivial Pursuit: Bet You Know It",6093,5.61,29.99,478,4
+1764,6.43,"Oath of the Brotherhood",6106,5.61,49.99,182,4
+1765,5.83,"Treehouse",6113,5.61,9,813,4
+1766,7.24,"Imperial Stars II",6126,5.609,28.99,91,4
+1767,7.65,"Approaching Dawn: The Witching Hour",6145,5.608,59.99,101,4
+1768,6.73,"Clash of Wills: Shiloh 1862",6163,5.608,29.99,119,4
+1769,6.46,"Pirate Den",6165,5.608,29.99,190,4
+1770,5.89,"Ming Dynasty",6177,5.607,39.99,485,4
+1771,6.09,"Veggie Garden",6178,5.607,19.99,319,4
+1772,7,"Codex: Card-Time Strategy – Starter Set",6182,5.607,25,88,4
+1773,6.18,"Gold Fever",6184,5.607,23.05,240,4
+1774,6.33,"Risk: Halo Wars Collector's Edition",6193,5.607,39.95,223,4
+1775,5.83,"Bears!",6199,5.606,19.99,808,4
+1776,6.31,"Isaribi",6201,5.606,39.99,196,4
+1777,6.49,"Boxcars",6203,5.606,49.99,182,4
+1778,6,"Kill the Overlord",6207,5.606,20,365,4
+1779,6.2,"LIE",6220,5.605,6,241,4
+1780,6.57,"Retreat to Darkmoor",6221,5.605,19.99,147,4
+1781,5.74,"Shadows over Camelot: The Card Game",6232,5.605,24.99,1059,4
+1782,6.87,"Cutthroat Kingdoms",6236,5.605,39.99,153,4
+1783,5.81,"Go West!",6237,5.605,34.99,665,4
+1784,5.72,"Chez Geek",6244,5.605,34.99,4178,4
+1785,6.9,"Space Freaks",6249,5.604,27.19,157,4
+1786,6.77,"Niña & Pinta",6253,5.604,49.95,114,4
+1787,6.91,"Pinball Showdown",6254,5.604,26.84,108,4
+1788,5.75,"Kittens in a Blender",6281,5.603,12.99,1744,4
+1789,7.07,"Monsterpocalypse: Voltron – Defender of the Universe Battle Game",6303,5.603,49.99,95,4
+1790,5.85,"Looting London",6310,5.602,24.99,547,4
+1791,5.97,"Eight Epics",6313,5.602,19.99,358,4
+1792,6.41,"Strong Stuff!",6359,5.601,50,159,4
+1793,5.78,"Agent Hunter",6360,5.601,11.99,780,4
+1794,6.13,"Attacktix Battle Figure Game: Star Wars",6384,5.6,19.99,279,4
+1795,6.45,"Sun of York",6405,5.6,31,154,4
+1796,5.8,"Doctor Who: The Card Game",6412,5.6,29.99,770,4
+1797,6.64,"The Godfather: A New Don",6413,5.6,49.99,122,4
+1798,5.8,"Bean Trader",6414,5.6,37.99,700,4
+1799,5.94,"Chaos Marauders",6420,5.599,24.95,481,4
+1800,6.24,"Odyssey: Wrath of Poseidon",6475,5.598,37.89,186,4
+1801,6.11,"Take It or Leave It",6492,5.597,19.99,231,4
+1802,5.81,"Grave Robbers From Outer Space",6498,5.597,19.99,943,4
+1803,6.3,"Richard Scarry's Busytown: Busy, Busy Airport Game",6534,5.596,19.99,179,4
+1804,7.11,"The Lion Guard: Protect the Pride Lands",6544,5.596,19.99,85,4
+1805,6.06,"Yikerz!",6546,5.596,16.99,301,4
+1806,5.86,"Sidibaba",6567,5.595,59.99,441,4
+1807,5.84,"Gear & Piston",6598,5.594,54.99,451,4
+1808,6.81,"Brewin' USA",6614,5.594,50,143,4
+1809,6.05,"Ablaze!",6621,5.594,19.99,269,4
+1810,6.68,"Monopoly Gamer: Mario Kart",6636,5.593,24.99,136,4
+1811,5.92,"Mars Needs Mechanics",6642,5.593,39.99,332,4
+1812,6.12,"Quest: A Time of Heroes",6659,5.593,39.99,248,4
+1813,6.46,"Risk: Halo Legendary Edition",6671,5.592,49.99,156,4
+1814,6.15,"Hot Tin Roof",6680,5.592,34.99,223,4
+1815,6.52,"ScrumBrawl",6696,5.592,40,146,4
+1816,5.69,"Mille Bornes",6720,5.591,16.99,6559,4
+1817,6.64,"Nature of the Beast: City vs. Suburb",6815,5.589,17.95,112,4
+1818,6.23,"Five Points: Gangs of New York",6826,5.589,34.99,181,4
+1819,5.91,"Clue (2-6 players)",6845,5.588,21.99,609,4
+1820,5.84,"Ostia",6862,5.588,25,480,4
+1821,5.91,"Horus",6878,5.587,35,401,4
+1822,5.95,"Pengoloo",6879,5.587,24.99,319,4
+1823,6.06,"Monopoly: The Mega Edition",6880,5.587,39.99,374,4
+1824,6.79,"Holdfast: Korea 1950-51",6881,5.587,64.99,89,4
+1825,6.46,"Mesozooic",6882,5.587,19.99,141,4
+1826,5.91,"Kitty Paw",6909,5.587,20,476,4
+1827,6.32,"Tiger Leader",6936,5.586,89.99,164,4
+1828,6.12,"A to Z",6958,5.585,29.99,221,4
+1829,6.06,"The Doge Ship",6959,5.585,48.99,230,4
+1830,5.82,"Clue: The Card Game",7011,5.584,12.94,574,4
+1831,5.86,"Dino Hunt Dice",7022,5.583,9.95,459,4
+1832,6.62,"Darkness Comes Rattling",7023,5.583,65,117,4
+1833,5.79,"Fruit Spy",7049,5.583,19.99,540,4
+1834,6.98,"Axis & Allies & Zombies",7053,5.583,40,92,4
+1835,6.5,"Nomads",7059,5.582,9.68,125,4
+1836,6.62,"Magic: The Gathering – Heroes of Dominaria Board Game",7091,5.582,69.99,103,4
+1837,6.17,"Nantucket",7218,5.579,9.95,189,4
+1838,5.99,"Mighty Monsters",7219,5.579,34.9,239,4
+1839,6.36,"Flag Dash",7266,5.578,26.61,164,4
+1840,6.04,"Perpetual-Motion Machine",7289,5.577,19.99,208,4
+1841,6.03,"Space Junkyard",7336,5.576,4.99,225,4
+1842,5.68,"Fluxx",7339,5.576,15.99,14286,4
+1843,6.14,"Shiba Inu House",7367,5.575,20,177,4
+1844,5.9,"Chez Cthulhu",7373,5.575,19.99,341,4
+1845,6.05,"Caligula",7374,5.575,30,209,4
+1846,6.12,"TAJ",7397,5.574,6.99,188,4
+1847,5.69,"Frag",7401,5.574,34.99,1835,4
+1848,7.3,"Gato Leader",7421,5.574,38.75,62,4
+1849,5.97,"Slavika",7422,5.574,9.9,461,4
+1850,5.75,"The Walking Dead: The Board Game",7427,5.574,39.99,1002,4
+1851,5.68,"Rack-O",7503,5.573,12.5,2237,4
+1852,6.22,"Metal Adventures",7526,5.572,49.99,134,4
+1853,6.23,"HeroCard Orc Wars",7557,5.572,24.99,148,4
+1854,6.13,"Palenque",7567,5.571,54.99,158,4
+1855,5.69,"3 Wishes",7631,5.57,9.99,806,4
+1856,5.75,"Geek Out!",7643,5.57,20.09,734,4
+1857,6.92,"Rayguns and Rocketships",7647,5.57,74.99,112,4
+1858,6.38,"Rhein: River Trade",7695,5.569,59.99,107,4
+1859,6.53,"Apollo XIII",7713,5.569,40,112,4
+1860,6.25,"Zombie Tsunami",7714,5.568,29.99,206,4
+1861,5.95,"Bell-Bottomed Badassses on the Mean Streets of Funk",7738,5.568,19.99,216,4
+1862,6.08,"Conquest of Speros",7749,5.568,24.99,169,4
+1863,7.23,"Rick and Morty: The Pickle Rick Game",7792,5.567,45,57,4
+1864,6.09,"Galaxy's Edge",7805,5.567,34.99,170,4
+1865,5.68,"Ghooost!",7808,5.567,19.99,923,4
+1866,5.86,"The Mysterious Forest",7826,5.567,29.99,326,4
+1867,7.26,"Expedite",7847,5.566,45.99,73,4
+1868,5.67,"Monopoly Express",7865,5.566,12.99,822,4
+1869,7.11,"Borodino: Napoleon in Russia 1812",7874,5.566,67.48,64,4
+1870,5.76,"Curses!",7882,5.565,24.99,526,4
+1871,6.26,"Provincia Romana",7895,5.565,54.99,137,4
+1872,5.97,"Whitewater",7900,5.565,34.99,208,4
+1873,6.06,"INWO SubGenius",7901,5.565,16.95,201,4
+1874,6.74,"Theomachy: The Warrior Gods",7904,5.565,34.99,87,4
+1875,6.25,"Black Hat",7952,5.564,29.95,159,4
+1876,5.85,"The Farming Game",8017,5.563,34.99,729,4
+1877,5.85,"Moods",8018,5.563,89.99,376,4
+1878,6.42,"Prime Climb",8072,5.562,35,112,4
+1879,5.76,"Galactic Strike Force",8087,5.562,16.47,432,4
+1880,5.66,"Clue",8136,5.561,12.99,14967,4
+1881,5.92,"12 Days of Christmas",8148,5.561,11.99,216,4
+1882,5.88,"The Village Crone",8161,5.561,49.99,300,4
+1883,6.04,"Ace Detective",8167,5.561,39.99,163,4
+1884,6.71,"Mini DiverCity",8186,5.56,19.99,94,4
+1885,6.03,"FlipOut",8193,5.56,33.21,161,4
+1886,6.07,"Krysis",8195,5.56,29.99,264,4
+1887,6.09,"Rowboat",8231,5.56,12.99,163,4
+1888,6.24,"Dicey Peaks",8239,5.56,30,148,4
+1889,7.63,"Strike Them a Blow",8285,5.559,49,43,4
+1890,6.11,"Scattergories Categories",8294,5.559,20,177,4
+1891,6.67,"Comanauts",8312,5.559,69.95,75,4
+1892,6.02,"Gunship: First Strike!",8339,5.558,49.95,226,4
+1893,6.38,"Ravingspire",8359,5.558,79.99,135,4
+1894,6.5,"Gang Rush Breakout",8360,5.558,74.99,92,4
+1895,6.61,"Get Rich Quick",8377,5.558,29.95,66,4
+1896,6.58,"Sorcerer & Stones",8378,5.558,34.95,74,4
+1897,6.17,"Help Me!",8388,5.557,24.99,129,4
+1898,5.64,"Dragon Slayer",8406,5.557,12.99,1554,4
+1899,7.45,"Airfix Battles",8416,5.557,34.99,73,4
+1900,5.92,"Zooscape",8417,5.557,19.95,198,4
+1901,5.79,"Loch Ness",8428,5.557,34.99,361,4
+1902,6.3,"Snow Time",8555,5.555,19.19,94,4
+1903,6.46,"Nessos",8560,5.555,14.99,77,4
+1904,7.18,"Builders of Blankenburg",8598,5.554,60,119,4
+1905,6.62,"Riftwalker: A Storm Hollow Card Game",8615,5.554,20,85,4
+1906,5.68,"Spy Alley",8636,5.554,36.99,875,4
+1907,6.37,"Trenches of Valor",8653,5.554,17.95,92,4
+1908,6.11,"Roll to the South Pole",8656,5.554,34.95,116,4
+1909,5.93,"Get The Cheese!",8710,5.553,14.95,186,4
+1910,5.82,"Nanofictionary",8724,5.553,16,270,4
+1911,6.12,"Attack of the Jelly Monster",8754,5.552,19.99,116,4
+1912,7.41,"No Retreat 2",8755,5.552,38.95,36,4
+1913,6.19,"Galactic Destiny",8765,5.552,59.43,140,4
+1914,6.15,"Outback",8780,5.552,34.99,111,4
+1915,5.93,"Oh Captain!",8784,5.552,29.99,188,4
+1916,5.82,"Ido",8789,5.552,49.95,251,4
+1917,5.68,"Double or Nothing",8799,5.552,26.99,487,4
+1918,5.75,"Pretense",8851,5.551,9.99,271,4
+1919,6.2,"Romance of the Nine Empires",8868,5.551,39.99,131,4
+1920,6.8,"Paul Koenig's Market Garden: Arnhem Bridge",8887,5.55,20.95,50,4
+1921,6.89,"Ocean Labyrinth",8947,5.55,24.3,51,4
+1922,6.46,"Hoyle's Games",8951,5.55,8.99,65,4
+1923,5.96,"Credit Mobilier",8974,5.549,34.99,135,4
+1924,5.95,"Chaos",9042,5.548,10,167,4
+1925,6.09,"Scurvy Musketeers of the Spanish Main",9055,5.548,19.99,111,4
+1926,6.59,"Renaissance Wars",9079,5.548,49.99,111,4
+1927,5.69,"Fluxx: The Board Game",9100,5.547,29.99,506,4
+1928,7.01,"The X-Files: Circle of Truth",9145,5.547,23.2,40,4
+1929,5.74,"Message to the Czar",9157,5.547,29.99,327,4
+1930,5.98,"Defenders of the Realm: Battlefields",9159,5.547,39.99,152,4
+1931,5.84,"Tin Soldiers",9163,5.547,9.99,197,4
+1932,5.83,"Easy Breezy Travel Agency",9281,5.545,11.99,199,4
+1933,5.68,"Junior Labyrinth",9344,5.545,31.99,498,4
+1934,6.36,"Orphan Black: The Card Game",9357,5.545,29.99,74,4
+1935,5.8,"Big Manitou",9372,5.544,24.99,302,4
+1936,6.29,"Star Trek HeroClix: Tactics",9386,5.544,4.99,106,4
+1937,6.32,"Werebeasts",9400,5.544,24.95,88,4
+1938,6.35,"The Last of the Independents",9455,5.543,39.99,86,4
+1939,6.02,"Order Up",9480,5.543,29.99,122,4
+1940,6.48,"Madness At Midnight",9488,5.543,64.99,59,4
+1941,5.72,"Funglish",9549,5.542,22.99,326,4
+1942,6.03,"Lupin the 3rd",9587,5.542,64.99,151,4
+1943,6.83,"Battleground Historical Warfare: Second Punic War 218-201 BC",9603,5.542,24.95,42,4
+1944,6.13,"Flashlights & Fireflies",9606,5.542,16.99,99,4
+1945,6.05,"Pyramid: Home Game",9613,5.542,199.99,107,4
+1946,5.82,"Trophy Buck",9614,5.542,9.95,235,4
+1947,6.81,"Stipulations",9635,5.541,25,46,4
+1948,5.98,"Swordfish",9638,5.541,60,156,4
+1949,6.05,"Sumoku",9690,5.541,15.99,110,4
+1950,5.85,"Three of a Crime",9721,5.54,9.99,155,4
+1951,6.48,"Christmas Lights: A Card Game",9745,5.54,14.99,63,4
+1952,6.46,"Clue: Game of Thrones",9766,5.54,49.99,93,4
+1953,6.28,"V-Wars",9827,5.539,79.99,73,4
+1954,6.03,"Scallywags",9845,5.539,15.99,126,4
+1955,7.09,"Listography: The Game",9926,5.538,19.95,39,4
+1956,6.35,"The Contender: The Game of Presidential Debate",9931,5.538,29.95,91,4
+1957,6.65,"Risk: Star Trek 50th Anniversary Edition",9947,5.538,49.99,55,4
+1958,6.71,"Breaking Bad: The Board Game",9962,5.538,39.99,120,4
+1959,6.56,"Sports Dice: Baseball",9978,5.538,14.95,52,4
+1960,5.65,"Crappy Birthday",9997,5.537,19.99,429,4
+1961,5.72,"Minecraft Card Game?",10014,5.537,12.99,690,4
+1962,6.96,"Overworld",10062,5.537,39.99,39,4
+1963,6.56,"Miaui",10092,5.536,24.99,48,4
+1964,6.11,"London Markets",10100,5.536,59.9,93,4
+1965,5.9,"Back to the Future: An Adventure Through Time",10258,5.535,34.99,163,4
+1966,5.8,"They Who Were 8",10296,5.535,25,141,4
+1967,6.47,"Neon Gods",10330,5.534,59.95,53,4
+1968,5.66,"Zombie Survival: The Board Game",10505,5.533,39.99,290,4
+1969,5.62,"Mexican Train",10522,5.532,34.99,1585,4
+1970,5.9,"Clue (Second Crime Scene Edition)",10554,5.532,12.99,223,4
+1971,5.67,"Pig Pile",10599,5.532,15.99,368,4
+1972,5.85,"Rocketmen: Axis of Evil",10641,5.531,3.99,161,4
+1973,6.64,"Rick and Morty: The Ricks Must Be Crazy Multiverse Game",10666,5.531,12.55,47,4
+1974,6.16,"Atari's Centipede",10685,5.531,39.99,77,4
+1975,6.28,"Lagoonies",10692,5.531,39.95,53,4
+1976,6.04,"duck! duck! SAFARI!",10726,5.53,24.99,80,4
+1977,6.07,"If I'm Going Down...",10767,5.53,30,106,4
+1978,5.74,"Batman: Arkham City Escape",10782,5.53,44.99,212,4
+1979,5.59,"Celtica",10862,5.529,63.46,707,4
+1980,6.13,"Game of Thrones: The Trivia Game",10993,5.528,39.95,83,4
+1981,6.4,"Battleship Live",11034,5.527,59.99,42,4
+1982,6.19,"Aachen: First to Fall",11215,5.526,19.76,51,4
+1983,5.58,"Jenga",11234,5.525,25.99,9359,4
+1984,6.49,"Highlander: The Board Game",11241,5.525,25,42,4
+1985,5.66,"Temple Run: Danger Chase",11257,5.525,19.99,259,4
+1986,5.94,"Sector 41",11274,5.525,39.99,123,4
+1987,5.79,"Scene It? 007",11321,5.525,24.99,132,4
+1988,5.58,"Labyrinth: The Card Game",11345,5.524,11.99,1220,4
+1989,5.84,"Four Taverns",11355,5.524,29.99,126,4
+1990,5.63,"Lunch Money",11518,5.523,19.99,2488,4
+1991,6.32,"Coraxis & Co.",11534,5.523,39.99,38,4
+1992,5.87,"3-D Chess",11583,5.522,48.3,118,4
+1993,5.62,"Stocks & Bonds",11589,5.522,25,564,4
+1994,5.91,"Super-Vampire",11642,5.522,39.9,101,4
+1995,5.76,"Balloon Pop!",11683,5.521,14.95,107,4
+1996,6.83,"Cache Me If You Can!: The Geocaching Board Game",11739,5.521,39.95,37,4
+1997,5.62,"Cinq-O",11794,5.52,9.99,272,4
+1998,5.68,"Twilight Squabble",11804,5.52,14.99,248,4
+1999,6.04,"Back to the Future: OUTATIME",11818,5.52,19.99,80,4
+2000,6.17,"Dungeon Venture",11823,5.52,67.5,46,4
+2001,5.9,"Tiffin",11826,5.52,39.95,80,4
+2002,5.84,"Ender's Game: Battle School",11850,5.52,24.99,59,4
+2003,6.41,"Brew Dice",11921,5.519,14.95,43,4
+2004,6,"Schatz-Rabatz",11938,5.519,24.99,56,4
+2005,5.83,"Ticked Off",12017,5.518,24.99,91,4
+2006,5.88,"The Mystery of the Templars",12030,5.518,65,131,4
+2007,6.21,"Turning Point",12037,5.518,49.95,34,4
+2008,5.78,"Alan's Adventureland",12080,5.518,49.95,81,4
+2009,6.14,"Battleship Movie Edition",12086,5.518,49.99,51,4
+2010,6.08,"Ugah Ugah!",12103,5.517,14.99,37,4
+2011,5.61,"Innsmouth Escape",12111,5.517,39.99,230,4
+2012,5.63,"Chromino",12163,5.517,32.4,346,4
+2013,5.76,"Square Shooters",12172,5.517,19.99,184,4
+2014,5.74,"The Princess Bride: A Battle of Wits",12176,5.517,25,114,4
+2015,5.85,"Jungle Speed: Silver",12179,5.517,12.99,60,4
+2016,6.27,"Blood & Sand",12303,5.516,59.95,32,4
+2017,5.72,"Star Wars: The Interactive Video Board Game",12317,5.516,69.99,171,4
+2018,5.93,"Terzetto",12331,5.515,21.99,41,4
+2019,5.71,"Scene It? Movie Deluxe",12411,5.515,34.99,177,4
+2020,5.93,"Blindside",12426,5.514,29.99,31,4
+2021,5.64,"Rocket Jockey",12430,5.514,14.99,140,4
+2022,6.19,"Yummy World: Party at Picnic Palace",12463,5.514,14.99,30,4
+2023,5.68,"The Cat Game",12497,5.514,19.99,98,4
+2024,5.96,"FrankenDie",12521,5.513,28,55,4
+2025,5.75,"Solaris",12556,5.513,49.95,67,4
+2026,5.62,"Doodle Dice",12589,5.513,10.6,387,4
+2027,5.74,"Robot Face Race",12648,5.512,19.99,64,4
+2028,5.84,"Hollywood Game Night Party Game",12704,5.512,19.99,50,4
+2029,5.69,"Martians!!!",12742,5.512,29.99,158,4
+2030,6.01,"Risk: Marvel Cinematic Universe",12771,5.511,49.99,35,4
+2031,5.67,"Justice League: Axis of Villains Strategy Game",12782,5.511,24.99,207,4
+2032,5.69,"Pirate King",12828,5.511,33.98,250,4
+2033,5.56,"The Lord of the Rings: Nazgul",12897,5.51,84.99,206,4
+2034,5.86,"Quadefy",12904,5.51,29.99,44,4
+2035,5.59,"Seven Card Samurai",12918,5.51,19.99,158,4
+2036,5.69,"Dizios",12934,5.51,19.99,95,4
+2037,5.63,"The Heavens of Olympus",12942,5.51,44.99,128,4
+2038,5.55,"Time Pirates",12986,5.509,32.95,248,4
+2039,5.65,"Silent But Deadly Night",13005,5.509,24.95,77,4
+2040,5.65,"Knock Your Blocks Off",13030,5.509,16.99,73,4
+2041,5.62,"Launch Pad",13102,5.508,24.99,173,4
+2042,5.59,"Maximum Throwdown",13116,5.508,19.99,421,4
+2043,5.6,"Borneo",13175,5.507,35,169,4
+2044,5.58,"Scene It? Seinfeld",13199,5.507,39.99,163,4
+2045,5.68,"Space Pirates",13218,5.507,59.99,145,4
+2046,5.93,"Tower of London",13232,5.507,24.99,40,4
+2047,5.76,"75 Gnom' Street",13249,5.507,49.99,54,4
+2048,6.03,"Gladiatori",13403,5.505,54.99,73,4
+2049,5.54,"Texas Zombies",13404,5.505,24.99,103,4
+2050,5.6,"Laser Battle",13413,5.505,34.99,143,4
+2051,5.89,"Mine All Mines",13416,5.505,34.99,32,4
+2052,5.69,"CrossWays",13463,5.505,24.99,39,4
+2053,5.59,"Ranking",13475,5.505,39.99,188,4
+2054,5.52,"Xoom Cubes",13512,5.504,15.95,30,4
+2055,5.69,"Hedbanz Act Up!",13521,5.504,19.99,40,4
+2056,5.8,"NCIS: The Board Game",13541,5.504,24.99,45,4
+2057,5.74,"Galaxy Command",13583,5.503,38.49,54,4
+2058,5.64,"Killer Bunnies and the Quest for the Magic Carrot: Remix",13601,5.503,34.95,201,4
+2059,5.71,"Electronic Catch Phrase: Music Edition",13621,5.503,25.99,75,4
+2060,5.63,"Jim Henson's The Dark Crystal: Board Game",13906,5.5,50,53,4
+2061,5.61,"Scene it? Disney Deluxe Edition",13918,5.5,34.99,51,4
+2062,5.57,"Michelangelo",13936,5.5,29.99,43,4
+2063,5.5,"History's Mysteries Card Game",13939,5.5,12,61,4
+2064,5.67,"HeroCard Galaxy",13957,5.5,19.99,61,4
+2065,5.62,"Unita",14087,5.498,49.99,112,4
+2066,5.51,"Bejeweled",14123,5.498,19.99,77,4
+2067,5.47,"Triplica",14167,5.497,14.99,45,4
+2068,5.53,"Firefly: Shiny Dice",14183,5.497,29.99,480,4
+2069,5.53,"Hurry'Cup!",14187,5.497,42.99,301,4
+2070,5.52,"Gearworld: The Borderlands",14193,5.497,49.99,326,4
+2071,5.54,"Operation: Kindergarten",14330,5.496,55,58,4
+2072,5.56,"3012",14341,5.495,44.99,273,4
+2073,5.75,"Vampire Werewolf Fairies",14350,5.495,17.99,45,4
+2074,5.7,"The Lost Dutchman",14404,5.495,29.99,82,4
+2075,5.48,"Sequence Dice",14409,5.494,10.99,168,4
+2076,5.36,"Jungli-La",14437,5.494,19.57,54,4
+2077,5.48,"MidEvil",14455,5.494,23.99,435,4
+2078,5.56,"We Didn't Playtest This At All",14456,5.494,15,2654,4
+2079,5.48,"Pipeline",14472,5.494,24.99,143,4
+2080,5.35,"Feed the Woozle",14474,5.494,19.99,57,4
+2081,5.41,"Dragon Valley",14499,5.493,34.99,96,4
+2082,5.45,"Monopoly: The Walking Dead – Survival Edition",14511,5.493,51.99,70,4
+2083,5.51,"Democrazy",14513,5.493,21.95,1114,4
+2084,5.63,"Monopoly City",14514,5.493,39.99,841,4
+2085,5.53,"Dwarven Dig!",14530,5.493,39.99,311,4
+2086,5.38,"Banana Party",14557,5.493,34.99,66,4
+2087,5.43,"Orcz",14603,5.492,24.99,271,4
+2088,5.99,"Collateral Damage",14609,5.492,39.99,47,4
+2089,5.44,"Disney Eye Found It!",14666,5.491,19.99,103,4
+2090,5.53,"Imaginiff",14709,5.491,29.99,1322,4
+2091,5.39,"That's What She Said Game",14720,5.49,24.99,67,4
+2092,5.34,"Skip-Bo junior",14746,5.49,9.99,71,4
+2093,5.57,"Balance of Power",14749,5.49,14.13,104,4
+2094,5.44,"Scene It? TV",14763,5.49,34.99,176,4
+2095,5.22,"Star Wars Galactic Dice Game",14782,5.49,6.99,67,4
+2096,5.31,"Monopoly: Clone Wars",14819,5.489,19.99,80,4
+2097,5.26,"Spin & Trap",14840,5.489,24.95,43,4
+2098,5.38,"Mystery! Motive for Murder",14847,5.488,35,89,4
+2099,4.85,"Farkle Frenzy",14883,5.488,21.99,30,4
+2100,5.53,"Scene It? Movie",14918,5.487,39.99,1358,4
+2101,5.46,"Battleship Express",14949,5.487,12.99,295,4
+2102,4.98,"Simon Flash",14951,5.487,29.99,30,4
+2103,5.56,"The Voting Game",14962,5.487,25,200,4
+2104,5.48,"Star Wars Miniatures: Starship Battles",14991,5.486,39.99,409,4
+2105,5.51,"Blurt!",14992,5.486,25,262,4
+2106,5.47,"Blockhead!",14993,5.486,12.99,253,4
+2107,5.41,"Spooky Castle",15004,5.486,39.9,87,4
+2108,5.32,"UnNatural Selection",15010,5.486,10.95,89,4
+2109,5.4,"Bravest Warriors Co-operative Dice Game",15080,5.485,24.99,137,4
+2110,5.41,"Bugs & Co",15081,5.485,15,171,4
+2111,5.16,"Robotech RPG Tactics",15120,5.484,89.99,107,4
+2112,5.46,"Rail Raiders Infinite",15165,5.483,49.95,208,4
+2113,5.52,"Tripoley",15207,5.483,22,705,4
+2114,5.5,"Bear Valley",15230,5.482,24.95,314,4
+2115,5.36,"Husker Du?",15254,5.482,11.99,86,4
+2116,5.03,"Saqqara",15271,5.481,54.99,50,4
+2117,5.44,"Trivial Pursuit: Volume 6",15293,5.481,29.99,236,4
+2118,5.12,"Recess!",15303,5.481,24.95,99,4
+2119,5.37,"Sanitarium",15402,5.479,25,158,4
+2120,5.23,"CUPONK",15416,5.479,14.99,91,4
+2121,5.09,"Barbie Queen of the Prom Game",15429,5.478,29.99,40,4
+2122,5.22,"Killer Bunnies and the Ultimate Odyssey",15432,5.478,35,92,4
+2123,5.41,"High School Drama!",15434,5.478,22.99,169,4
+2124,5.38,"FLY",15466,5.478,6.99,242,4
+2125,5.51,"Electronic Mall Madness",15486,5.477,39.99,292,4
+2126,5.39,"The Impossible Machine",15497,5.477,14.99,280,4
+2127,5.49,"Scene It? Disney",15501,5.477,39.99,394,4
+2128,5.53,"Trivial Pursuit: Genus IV",15504,5.477,59.99,935,4
+2129,5.59,"Bears vs Babies",15508,5.477,30,1926,4
+2130,5.06,"Hirelings: The Ascent",15516,5.476,34.99,56,4
+2131,5.25,"The Hunger Games: Training Days",15527,5.476,29.99,119,4
+2132,5.05,"Those Pesky Garden Gnomes",15570,5.475,29.99,65,4
+2133,5.12,"Scene It? Sports powered by ESPN",15583,5.475,34.99,70,4
+2134,5.15,"RuneCast",15588,5.475,49.99,44,4
+2135,5.16,"Fish or Cut Bait",15626,5.474,14.99,103,4
+2136,5.21,"Tuchulcha",15632,5.474,24.99,155,4
+2137,5.5,"Mastermind",15664,5.473,16.99,5153,4
+2138,5.31,"Godzilla: Kaiju World Wars",15672,5.472,69.99,167,4
+2139,5.26,"Monopoly: Star Wars",15746,5.471,24.99,185,4
+2140,5.46,"Car Wars: The Card Game",15770,5.47,24.99,700,4
+2141,5.4,"The Walking Dead Card Game",15786,5.469,14.99,459,4
+2142,5.37,"The Market of Alturien",15825,5.468,49.99,367,4
+2143,5.49,"Harry Potter and the Sorcerer's Stone   Mystery at Hogwarts Game",15833,5.468,84.99,402,4
+2144,4.53,"Roman Taxi",15839,5.468,29.99,43,4
+2145,4.73,"Triology",15855,5.467,19.99,56,4
+2146,5.33,"You've Been Sentenced!",15868,5.467,24.99,223,4
+2147,5.36,"Change Horses",15878,5.466,44.79,415,4
+2148,4.95,"Scene It? Squabble",15881,5.466,34.99,74,4
+2149,4.58,"Skip-Bo Dice Game",15883,5.466,9.99,44,4
+2150,5.34,"Gone Fishing!",15898,5.465,24.99,308,4
+2151,5.44,"Alibi",15932,5.464,15,656,4
+2152,4.84,"The Tower of Mystery",15943,5.464,39.95,42,4
+2153,4.2,"Star Wars Trivia Game",15948,5.464,19.99,40,4
+2154,5.42,"UNO Stacko",15965,5.463,9.99,492,4
+2155,5.51,"Farkle",15968,5.463,21.95,1788,4
+2156,4.96,"Jenga Max",15981,5.463,21.99,86,4
+2157,5.08,"Watch Ya' Mouth",15986,5.463,19.99,117,4
+2158,4.46,"Downton Abbey: The Board Game",16037,5.461,49.99,40,4
+2159,4.52,"Cashflow for Kids",16041,5.461,59.99,47,4
+2160,5.21,"Cthulhu Rising",16058,5.46,19.95,191,4
+2161,5.43,"Pictureka!",16077,5.459,22.99,869,4
+2162,5.29,"Win, Lose or Draw",16100,5.459,69.99,222,4
+2163,4.58,"Unusual Suspects",16110,5.458,11.99,56,4
+2164,5.36,"Monopoly: Star Wars Saga Edition",16136,5.457,29.99,327,4
+2165,5.13,"Monopoly Revolution",16172,5.455,39.99,122,4
+2166,4.4,"Tomb of Doom",16183,5.455,24.99,51,4
+2167,4.76,"The Hunger Games: Jabberjay Card Game",16187,5.455,8.99,71,4
+2168,5.18,"The Princess Bride: Storming the Castle",16408,5.442,24.99,242,4
+2169,5.25,"Conquest of Pangea",16420,5.44,39.99,285,4
+2170,5.42,"Before I Kill You, Mister Spy...",16423,5.44,15,1182,4
+2171,4.85,"Railways Express",16428,5.44,39.99,117,4
+2172,4.88,"Storm the Castle!",16439,5.439,59.99,132,4
+2173,5.3,"Oh Snap!",16441,5.439,18.99,532,4
+2174,5.07,"Sorry! with Fire & Ice Power-ups",16472,5.437,12.99,184,4
+2175,5.32,"ZombieTown",16492,5.435,20.38,422,4
+2176,5.25,"Iceberg Seals",16501,5.434,25.99,420,4
+2177,5.15,"Amber",16513,5.432,22.99,232,4
+2178,4.66,"Star Wars R2-D2 is in Trouble",16538,5.431,18.99,112,4
+2179,5.1,"Partini",16540,5.431,31.99,242,4
+2180,5.36,"SPANC: Space Pirate Amazon Ninja Catgirls",16550,5.43,24.95,483,4
+2181,5.28,"Cranium Cadoo",16582,5.425,19.99,540,4
+2182,4.95,"TKO",16587,5.424,6.99,185,4
+2183,5.29,"The Kids of Catan",16607,5.421,59.99,641,4
+2184,5.08,"Wit's End",16624,5.42,34.99,232,4
+2185,5.2,"Flinch",16628,5.419,10,377,4
+2186,5.35,"Evil Baby Orphanage",16635,5.418,18,603,4
+2187,5.18,"Pie Face",16639,5.416,19.99,345,4
+2188,5.37,"Nine Men's Morris",16648,5.414,34.99,1096,4
+2189,5.45,"Dominoes",16651,5.413,14.99,5090,4
+2190,3.23,"The Hobbit: An Unexpected Journey – Adventure Board Game",16652,5.413,29.99,57,4
+2191,5.39,"Monopoly: The Lord of the Rings Trilogy Edition",16663,5.411,9.99,763,4
+2192,5.17,"Monopoly: Disney",16664,5.411,29.99,412,4
+2193,5.35,"Smart Ass",16674,5.409,24.99,980,4
+2194,5.07,"What's Yours Like?",16677,5.408,29.99,329,4
+2195,2.62,"Twilight: The Board Game",16685,5.407,19.99,42,4
+2196,5.31,"Cranium Zigity",16687,5.407,9.99,853,4
+2197,5.07,"The Sneaky Snacky Squirrel Game",16688,5.407,21.99,292,4
+2198,5.41,"UNO Attack!",16692,5.406,24.99,1107,4
+2199,5.26,"Jim Henson's Labyrinth: The Board Game",16700,5.404,50,454,4
+2200,4.36,"Tetris: The Card Game",16709,5.402,9.99,105,4
+2201,4.83,"Archer: The Danger Zone! Board Game",16716,5.4,39.99,199,4
+2202,3.81,"The Big Bang Theory: Rock! Paper! Scissors! Lizard! Spock! Dice Game",16728,5.397,7.99,77,4
+2203,4.71,"Happy Families",16743,5.392,11.99,187,4
+2204,5.27,"Game of Thrones: Westeros Intrigue",16747,5.391,9.95,965,4
+2205,4.97,"Halo Interactive Strategy Game",16749,5.391,49.99,221,4
+2206,4.95,"The Prince: The Struggle of House Borgia",16755,5.39,34.99,267,4
+2207,4.3,"Hidden Conflict",16776,5.383,19.99,129,4
+2208,4.83,"Crocodile Dentist",16780,5.382,15.99,263,4
+2209,5.49,"Killer Bunnies and the Quest for the Magic Carrot",16788,5.378,30,5191,4
+2210,5.25,"Dread Pirate",16796,5.372,49.99,880,4
+2211,4.5,"Po-Ke-No",16805,5.368,10.03,171,4
+2212,4.4,"Toss Across",16813,5.365,19.99,163,4
+2213,5.4,"Skip-Bo",16821,5.361,7.99,4820,4
+2214,5.23,"The Hobbit Card Game",16826,5.359,9.95,1206,4
+2215,5.19,"Monopoly: The Simpsons",16827,5.358,39.99,607,4
+2216,4.94,"Anasazi",16829,5.358,14.99,419,4
+2217,5.25,"Tribond",16833,5.355,24.99,1130,4
+2218,4.03,"Pirateology: The Game",16836,5.353,36.99,132,4
+2219,4.71,"Dante's Inferno",16844,5.346,29.99,286,4
+2220,4.65,"Star Wars: Jedi Unleashed",16849,5.341,44.99,279,4
+2221,2.22,"24 DVD Board Game",16850,5.341,29.99,66,4
+2222,5.28,"Monopoly: Deluxe Edition",16852,5.34,22.99,1048,4
+2223,5.29,"Tri-Ominos",16855,5.338,25,1902,4
+2224,5.06,"Are You the Traitor?",16859,5.334,15,680,4
+2225,4.54,"Fallen City of Karez",16861,5.334,69.95,277,4
+2226,3.33,"Battle of the Sexes Card Game",16862,5.333,4.99,108,4
+2227,4.89,"Feed the Kitty",16867,5.332,14.99,402,4
+2228,4.59,"Go to the Head of the Class",16868,5.332,12.99,279,4
+2229,5.09,"The Walking Dead Board Game",16872,5.331,39.99,554,4
+2230,3.28,"Bunco Party",16873,5.329,18.95,105,4
+2231,5.07,"The Haunting House",16874,5.329,22.99,704,4
+2232,5.21,"Trivial Pursuit: 20th Anniversary Edition",16875,5.329,59.99,1164,4
+2233,4.99,"Warriors",16877,5.326,19.99,581,4
+2234,5.31,"Quelf",16881,5.321,19.99,2258,4
+2235,5.32,"Pass the Pigs",16882,5.315,12.99,4590,4
+2236,4.22,"Tom Clancy's Politika",16886,5.314,49.99,203,4
+2237,4.35,"Ants in the Pants",16893,5.308,11.99,259,4
+2238,4.28,"Pretty Pretty Princess",16897,5.301,9.99,229,4
+2239,4.46,"Don't Wake Daddy",16899,5.298,17.99,295,1

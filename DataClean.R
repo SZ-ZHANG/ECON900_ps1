@@ -5,8 +5,6 @@ dat_hw <- read.csv("BoardGameGeek.csv",header = TRUE)
 names(dat_hw) <- c("Index", "AvgRating", "GameName", "GameRank", "GeekRating", "ListPrice","NumVoters")
 
 
-
-
 change <- lapply(c(2,4,5,7), function(x){
   
   
@@ -67,8 +65,29 @@ dat_hw_sort <- dat_hw[order(dat_hw$GameRank) , ]
 
 dat_hw_sort$Index <- seq(1,dim(dat_hw_sort)[1],by=1)
 
-
+#dat_hw_sort <- na.omit(dat_hw_sort)
 RankCategory <- replicate(dim(dat_hw_sort)[1],1)
+
+
+#### Get rid of the missing values
+#change4 <-  sapply(1:dim(dat_hw_sort)[1],function(x){
+  
+#  if (x > 560 &  x < 1120 ) {
+    
+#    RankCategory[x] <<- 2
+    
+#  }else if (x > 1120 &  x < 1679 ) {
+    
+    
+#    RankCategory[x] <<- 3
+    
+#  }else if (x > 1679 &  x < 2239 ) {
+    
+#    RankCategory[x] <<- 4
+    
+#  }
+  
+#})
 
 change4 <-  sapply(1:dim(dat_hw_sort)[1],function(x){
   
@@ -81,7 +100,7 @@ change4 <-  sapply(1:dim(dat_hw_sort)[1],function(x){
     
     RankCategory[x] <<- 3
     
-    }else if (x > 6003 &  x < 8005 ) {
+    }else if (x > 6003 &  x < 8006 ) {
   
       RankCategory[x] <<- 4
       
@@ -91,7 +110,17 @@ change4 <-  sapply(1:dim(dat_hw_sort)[1],function(x){
 
 dat_final <- cbind(dat_hw_sort,RankCategory)
 
-write.csv(dat_final,"BoardGameGeekClean.csv",row.names = FALSE)
+dat_final$Index <- seq(1,dim(dat_final)[1],by = 1)
+######## Replace NA in ListPrice with the mean value ######
+#sum(is.na(dat_final$ListPrice))
+
+dat_final$ListPrice[which(is.na(dat_final$ListPrice) == TRUE)] <- mean(dat_final$ListPrice,na.rm = TRUE)
+
+#dat_final[!complete.cases(dat_final),]
+
+
+
+write.csv(dat_final,"BoardGameGeekClean_Miss.csv",row.names = FALSE)
 
 
 
