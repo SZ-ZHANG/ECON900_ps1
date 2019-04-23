@@ -1,4 +1,5 @@
-# Problem set 1 for Econ 900
+# ECON900_ps1
+Problem set 1 for Econ 900
 
 
 There are three parts in this repository. The first parts contain the web scraping for www.boardgamegeek.com. The second part contains the parsed results from the HTML page. The third part contains the analysis results of the data set. 
