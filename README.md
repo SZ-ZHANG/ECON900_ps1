@@ -13,7 +13,7 @@ DataClean.R cleans the data set.
 
 Analysis.py is the python code for data analysis. 
 
-html_files is the raw HTML files.
+html_files contains the raw HTML files.
 
 parsed_results contains the dataset I will use for the analysis.
 
