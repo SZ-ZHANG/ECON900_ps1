@@ -1,7 +1,7 @@
 # ECON900_ps1
 Problem set 1 for Econ 900
 
-Three steps are needed for finishing this project. The first step is web scraping from www.boardgamegeek.com. Then I parsed data from the HTML page. The third step is the analysis of the data set. 
+Three steps are needed for finishing this project. The first step is web scraping from www.boardgamegeek.com. Then parsed data from the HTML page. The last step is the analysis of the data set. 
 
 ## Files in the Repository
 
