@@ -54,7 +54,7 @@ for one_file_name in glob.glob("html_files/*.html"):
 
 		#collection_Listprice = r.find("td",{"class":"collection_shop"}).find("div",{"class":"aad"}).find('div').find('div').text
 
-
+		### Creating the dataset
 		df = df.append({
 				'GameName':collection_name,
 				'GameRank':collection_rank,

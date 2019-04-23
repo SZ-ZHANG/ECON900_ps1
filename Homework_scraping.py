@@ -14,7 +14,7 @@ driver = webdriver.Safari()
 for x in range(1066):
 	#### Get index from 1 to 1066
 	x = x+1
-	#### Use the dynamic method to grab the data from website
+	#### Use the dynamic method to grab the HTML 
 	driver.get("https://boardgamegeek.com/browse/boardgame/page/" +str(x)) 
 	page_html = driver.page_source 
 
