@@ -7,5 +7,5 @@ There are three parts in this repository. The first parts contain the web scrapi
 
 A normal web scraping method is not enough, because the webpage contains the dynamic elements. Variables name, ratings, and voter number are included in the static element, but the price is in the dynamic element. selenium will be used.
 
-Safari has its own webdriver, so I use safari webdriver instead of other web browsers. 
+Safari has its own webdriver, so I use safari webdriver instead of other web browsers. The total number of webpage of scraping is 1,062.
  
