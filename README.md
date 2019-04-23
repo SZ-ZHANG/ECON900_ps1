@@ -3,7 +3,7 @@ Problem set 1 for Econ 900
 
 Three steps are needed for finishing this project. The first step is web scraping from www.boardgamegeek.com. Then I parsed data from the HTML page. The third step is the analysis of the data set. 
 
-\textbf{Homework_scraping.py} is used to get the web structure from boardgamegreek.com.
+Homework_scraping.py is used to get the web structure from boardgamegreek.com.
 
 Homework_parse.py gets the information from the scraped HTML page. 
 
