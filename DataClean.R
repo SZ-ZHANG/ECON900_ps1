@@ -60,7 +60,38 @@ change3 <-  lapply(1:dim(dat_hw)[1],function(x){
 dat_hw[,6] <- as.numeric(dat_hw[,6])
 
 
-write.csv(dat_hw,"BoardGameGeekClean.csv",row.names = FALSE)
+dat_hw <- dat_hw[which(is.na(dat_hw$GameRank) == FALSE),]
+
+dat_hw_sort <- dat_hw[order(dat_hw$GameRank) , ]
+
+
+dat_hw_sort$Index <- seq(1,dim(dat_hw_sort)[1],by=1)
+
+
+RankCategory <- replicate(dim(dat_hw_sort)[1],1)
+
+change4 <-  sapply(1:dim(dat_hw_sort)[1],function(x){
+  
+  if (x > 1998 &  x < 4001 ) {
+    
+    RankCategory[x] <<- 2
+    
+  }else if (x > 4001 &  x < 6003 ) {
+  
+    
+    RankCategory[x] <<- 3
+    
+    }else if (x > 6003 &  x < 8005 ) {
+  
+      RankCategory[x] <<- 4
+      
+    }
+  
+})
+
+dat_final <- cbind(dat_hw_sort,RankCategory)
+
+write.csv(dat_final,"BoardGameGeekClean.csv",row.names = FALSE)
 
 
 
